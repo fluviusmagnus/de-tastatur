@@ -1,0 +1,1767 @@
+<KbdDll>
+  <KbdLayerDescriptor>
+    <KbdLayer MaxVSCtoVK="127" Version="1" LocaleFlags="ALTGR" LgMax="0" LgEntry="0" Type="0" SubType="0">
+      <CharModifiers>
+        <MODIFIERS MaxModBits="7" ModNumber="0 1 2 3 15 15 4 5">
+          <VkToBit>
+            <VK_TO_BIT Vk="VK_SHIFT" ModBits="KBDSHIFT" />
+            <VK_TO_BIT Vk="VK_CONTROL" ModBits="KBDCTRL" />
+            <VK_TO_BIT Vk="VK_MENU" ModBits="KBDALT" />
+          </VkToBit>
+        </MODIFIERS>
+      </CharModifiers>
+      <VkToWcharTable>
+        <VK_TO_WCHAR_TABLE Modifications="3" Size="8">
+          <VkToWchars>
+            <VK_TO_WCHARS Wch="0008 0008 007F" VirtualKey="VK_BACK" />
+            <VK_TO_WCHARS Wch="001B 001B 001B" VirtualKey="VK_ESCAPE" />
+            <VK_TO_WCHARS Wch="000D 000D 000A" VirtualKey="VK_RETURN" />
+            <VK_TO_WCHARS Wch="0003 0003 0003" VirtualKey="VK_CANCEL" />
+          </VkToWchars>
+        </VK_TO_WCHAR_TABLE>
+        <VK_TO_WCHAR_TABLE Modifications="5" Size="12">
+          <VkToWchars>
+            <VK_TO_WCHARS Wch="F001 00B0 F000 F000 00D7" VirtualKey="VK_OEM_5" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="005E F000 F000 F000 F000" />
+            <VK_TO_WCHARS Wch="0031 0021 F000 F000 2019" VirtualKey="VK_1" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0032 0022 F000 0000 00B2" VirtualKey="VK_2" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0033 00A7 F000 F000 00B3" VirtualKey="VK_3" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0034 0024 F000 F000 2014" VirtualKey="VK_4" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0035 0025 F000 F000 00A1" VirtualKey="VK_5" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0036 0026 F000 001E 00BF" VirtualKey="VK_6" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0037 002F F000 F000 007B" VirtualKey="VK_7" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0038 0028 F000 F000 005B" VirtualKey="VK_8" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0039 0029 F000 F000 005D" VirtualKey="VK_9" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0030 003D F000 F000 007D" VirtualKey="VK_0" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F001 F001 F000 F000 F001" VirtualKey="VK_OEM_6" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="00B4 0060 F000 F000 02D9" />
+            <VK_TO_WCHARS Wch="0071 0051 F000 F000 0040" VirtualKey="VK_Q" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0077 0057 F000 F000 F001" VirtualKey="VK_W" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 00AF" />
+            <VK_TO_WCHARS Wch="0065 0045 F000 F000 20AC" VirtualKey="VK_E" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0072 0052 F000 F000 F001" VirtualKey="VK_R" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02DD" />
+            <VK_TO_WCHARS Wch="0074 0054 F000 F000 F001" VirtualKey="VK_T" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02C7" />
+            <VK_TO_WCHARS Wch="007A 005A F000 F000 F001" VirtualKey="VK_Z" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 00A8" />
+            <VK_TO_WCHARS Wch="0075 0055 F000 F000 F001" VirtualKey="VK_U" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02D8" />
+            <VK_TO_WCHARS Wch="0069 0049 F000 F000 F001" VirtualKey="VK_I" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02DC" />
+            <VK_TO_WCHARS Wch="006F 004F F000 F000 F001" VirtualKey="VK_O" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02DA" />
+            <VK_TO_WCHARS Wch="0070 0050 F000 F000 F001" VirtualKey="VK_P" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02C0" />
+            <VK_TO_WCHARS Wch="00FC 00DC 001B F000 F001" VirtualKey="VK_OEM_1" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02BC" />
+            <VK_TO_WCHARS Wch="002B 002A 001D F000 007E" VirtualKey="VK_OEM_PLUS" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0061 0041 F000 F000 263A" VirtualKey="VK_A" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0073 0053 F000 F000 2033" VirtualKey="VK_S" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0064 0044 F000 F000 2032" VirtualKey="VK_D" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0066 0046 F000 F000 F001" VirtualKey="VK_F" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02DF" />
+            <VK_TO_WCHARS Wch="0067 0047 F000 F000 1E9E" VirtualKey="VK_G" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0068 0048 F000 F000 F001" VirtualKey="VK_H" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02CD" />
+            <VK_TO_WCHARS Wch="006A 004A F000 F000 F001" VirtualKey="VK_J" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 00B8" />
+            <VK_TO_WCHARS Wch="006B 004B F000 F000 F001" VirtualKey="VK_K" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02CF" />
+            <VK_TO_WCHARS Wch="006C 004C F000 F000 F001" VirtualKey="VK_L" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02DB" />
+            <VK_TO_WCHARS Wch="00F6 00D6 F000 F000 F001" VirtualKey="VK_OEM_3" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02CC" />
+            <VK_TO_WCHARS Wch="00E4 00C4 F000 F000 F001" VirtualKey="VK_OEM_7" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="F000 F000 F000 F000 02D7" />
+            <VK_TO_WCHARS Wch="0023 0027 001C F000 2212" VirtualKey="VK_OEM_2" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="003C 003E F000 F000 007C" VirtualKey="VK_OEM_102" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0079 0059 F000 F000 203A" VirtualKey="VK_Y" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0078 0058 F000 F000 00BB" VirtualKey="VK_X" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0063 0043 F000 F000 202F" VirtualKey="VK_C" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0076 0056 F000 F000 00AB" VirtualKey="VK_V" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0062 0042 F000 F000 2039" VirtualKey="VK_B" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="006E 004E F000 F000 2013" VirtualKey="VK_N" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="006D 004D F000 F000 00B5" VirtualKey="VK_M" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="002C 003B F000 F000 2011" VirtualKey="VK_OEM_COMMA" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="002E 003A F000 F000 00B7" VirtualKey="VK_OEM_PERIOD" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="002D 005F F000 001F 00AD" VirtualKey="VK_OEM_MINUS" Attributes="CAPLOK" />
+            <VK_TO_WCHARS Wch="0020 0020 F000 F000 00A0" VirtualKey="VK_SPACE" />
+            <VK_TO_WCHARS Wch="002C 002C F000 F000 F000" VirtualKey="VK_DECIMAL" />
+          </VkToWchars>
+        </VK_TO_WCHAR_TABLE>
+        <VK_TO_WCHAR_TABLE Modifications="6" Size="14">
+          <VkToWchars>
+            <VK_TO_WCHARS Wch="00DF 003F F000 F000 005C 1E9E" VirtualKey="VK_OEM_4" Attributes="CAPLOK" />
+          </VkToWchars>
+        </VK_TO_WCHAR_TABLE>
+        <VK_TO_WCHAR_TABLE Modifications="2" Size="6">
+          <VkToWchars>
+            <VK_TO_WCHARS Wch="0009 0009" VirtualKey="VK_TAB" />
+            <VK_TO_WCHARS Wch="002B 002B" VirtualKey="VK_ADD" />
+            <VK_TO_WCHARS Wch="002F 002F" VirtualKey="VK_DIVIDE" />
+            <VK_TO_WCHARS Wch="002A 002A" VirtualKey="VK_MULTIPLY" />
+            <VK_TO_WCHARS Wch="002D 002D" VirtualKey="VK_SUBTRACT" />
+          </VkToWchars>
+        </VK_TO_WCHAR_TABLE>
+        <VK_TO_WCHAR_TABLE Modifications="1" Size="4">
+          <VkToWchars>
+            <VK_TO_WCHARS Wch="0030" VirtualKey="VK_NUMPAD0" />
+            <VK_TO_WCHARS Wch="0031" VirtualKey="VK_NUMPAD1" />
+            <VK_TO_WCHARS Wch="0032" VirtualKey="VK_NUMPAD2" />
+            <VK_TO_WCHARS Wch="0033" VirtualKey="VK_NUMPAD3" />
+            <VK_TO_WCHARS Wch="0034" VirtualKey="VK_NUMPAD4" />
+            <VK_TO_WCHARS Wch="0035" VirtualKey="VK_NUMPAD5" />
+            <VK_TO_WCHARS Wch="0036" VirtualKey="VK_NUMPAD6" />
+            <VK_TO_WCHARS Wch="0037" VirtualKey="VK_NUMPAD7" />
+            <VK_TO_WCHARS Wch="0038" VirtualKey="VK_NUMPAD8" />
+            <VK_TO_WCHARS Wch="0039" VirtualKey="VK_NUMPAD9" />
+          </VkToWchars>
+        </VK_TO_WCHAR_TABLE>
+      </VkToWcharTable>
+      <DeadKeys>
+        <DEADKEY Both="02DF0020" Composed="200A" />
+        <DEADKEY Both="02DF0021" Composed="25CA" />
+        <DEADKEY Both="02DF0022" Composed="00A6" />
+        <DEADKEY Both="02DF0023" Composed="2020" />
+        <DEADKEY Both="02DF0024" Composed="2133" />
+        <DEADKEY Both="02DF0025" Composed="20B0" />
+        <DEADKEY Both="02DF0026" Composed="204A" />
+        <DEADKEY Both="02DF0027" Composed="2021" />
+        <DEADKEY Both="02DF0028" Composed="27EA" />
+        <DEADKEY Both="02DF0029" Composed="27EB" />
+        <DEADKEY Both="02DF002A" Composed="2052" />
+        <DEADKEY Both="02DF002B" Composed="00B1" />
+        <DEADKEY Both="02DF002C" Composed="02BB" />
+        <DEADKEY Both="02DF002D" Composed="2022" />
+        <DEADKEY Both="02DF002E" Composed="2026" />
+        <DEADKEY Both="02DF002F" Composed="2116" />
+        <DEADKEY Both="02DF0030" Composed="00F7" />
+        <DEADKEY Both="02DF0031" Composed="00BC" />
+        <DEADKEY Both="02DF0032" Composed="00BD" />
+        <DEADKEY Both="02DF0033" Composed="00BE" />
+        <DEADKEY Both="02DF0034" Composed="00A4" />
+        <DEADKEY Both="02DF0035" Composed="2030" />
+        <DEADKEY Both="02DF0036" Composed="2044" />
+        <DEADKEY Both="02DF0037" Composed="2300" />
+        <DEADKEY Both="02DF0038" Composed="27E8" />
+        <DEADKEY Both="02DF0039" Composed="27E9" />
+        <DEADKEY Both="02DF003A" Composed="2713" />
+        <DEADKEY Both="02DF003B" Composed="2665" />
+        <DEADKEY Both="02DF003C" Composed="2264" />
+        <DEADKEY Both="02DF003D" Composed="2205" />
+        <DEADKEY Both="02DF003E" Composed="2265" />
+        <DEADKEY Both="02DF003F" Composed="00AC" />
+        <DEADKEY Both="02DF0042" Composed="2019" />
+        <DEADKEY Both="02DF0043" Composed="00A9" />
+        <DEADKEY Both="02DF0044" Composed="00D0" />
+        <DEADKEY Both="02DF0045" Composed="018F" />
+        <DEADKEY Both="02DF0047" Composed="261B" />
+        <DEADKEY Both="02DF0048" Composed="261A" />
+        <DEADKEY Both="02DF0049" Composed="26A5" />
+        <DEADKEY Both="02DF004A" Composed="02BA" />
+        <DEADKEY Both="02DF004C" Composed="0141" />
+        <DEADKEY Both="02DF004D" Composed="2217" />
+        <DEADKEY Both="02DF004E" Composed="014A" />
+        <DEADKEY Both="02DF004F" Composed="00D8" />
+        <DEADKEY Both="02DF0050" Composed="2190" />
+        <DEADKEY Both="02DF0051" Composed="2642" />
+        <DEADKEY Both="02DF0052" Composed="00AE" />
+        <DEADKEY Both="02DF0053" Composed="2211" />
+        <DEADKEY Both="02DF0054" Composed="00DE" />
+        <DEADKEY Both="02DF0055" Composed="2191" />
+        <DEADKEY Both="02DF0056" Composed="2018" />
+        <DEADKEY Both="02DF0057" Composed="2640" />
+        <DEADKEY Both="02DF0058" Composed="201A" />
+        <DEADKEY Both="02DF0059" Composed="23D1" />
+        <DEADKEY Both="02DF005A" Composed="01B7" />
+        <DEADKEY Both="02DF005F" Composed="25E6" />
+        <DEADKEY Both="02DF0060" Composed="00A5" />
+        <DEADKEY Both="02DF0062" Composed="201D" />
+        <DEADKEY Both="02DF0063" Composed="00A2" />
+        <DEADKEY Both="02DF0064" Composed="00F0" />
+        <DEADKEY Both="02DF0065" Composed="0259" />
+        <DEADKEY Both="02DF0067" Composed="02BF" />
+        <DEADKEY Both="02DF0068" Composed="02BE" />
+        <DEADKEY Both="02DF0069" Composed="0131" />
+        <DEADKEY Both="02DF006A" Composed="02B9" />
+        <DEADKEY Both="02DF006C" Composed="0142" />
+        <DEADKEY Both="02DF006D" Composed="200C" />
+        <DEADKEY Both="02DF006E" Composed="014B" />
+        <DEADKEY Both="02DF006F" Composed="00F8" />
+        <DEADKEY Both="02DF0070" Composed="2192" />
+        <DEADKEY Both="02DF0071" Composed="00BA" />
+        <DEADKEY Both="02DF0072" Composed="2122" />
+        <DEADKEY Both="02DF0073" Composed="017F" />
+        <DEADKEY Both="02DF0074" Composed="00FE" />
+        <DEADKEY Both="02DF0075" Composed="2193" />
+        <DEADKEY Both="02DF0076" Composed="201C" />
+        <DEADKEY Both="02DF0077" Composed="00AA" />
+        <DEADKEY Both="02DF0078" Composed="201E" />
+        <DEADKEY Both="02DF0079" Composed="2423" />
+        <DEADKEY Both="02DF007A" Composed="0292" />
+        <DEADKEY Both="02DF00A7" Composed="00B6" />
+        <DEADKEY Both="02DF00B4" Composed="00A3" />
+        <DEADKEY Both="02DF00C4" Composed="00C6" />
+        <DEADKEY Both="02DF00D6" Composed="0152" />
+        <DEADKEY Both="02DF00DC" Composed="2197" />
+        <DEADKEY Both="02DF00DF" Composed="2260" />
+        <DEADKEY Both="02DF00E4" Composed="00E6" />
+        <DEADKEY Both="02DF00F6" Composed="0153" />
+        <DEADKEY Both="02DF00FC" Composed="2198" />
+        <DEADKEY Both="00310020" Composed="0031" />
+        <DEADKEY Both="00310061" Composed="033D" />
+        <DEADKEY Both="00310062" Composed="1DC4" />
+        <DEADKEY Both="00310064" Composed="0304" />
+        <DEADKEY Both="00310065" Composed="0308" />
+        <DEADKEY Both="00310069" Composed="0302" />
+        <DEADKEY Both="0031006A" Composed="030F" />
+        <DEADKEY Both="0031006B" Composed="0311" />
+        <DEADKEY Both="0031006D" Composed="1DC8" />
+        <DEADKEY Both="0031006E" Composed="1DC5" />
+        <DEADKEY Both="00310070" Composed="030A" />
+        <DEADKEY Both="00310071" Composed="0301" />
+        <DEADKEY Both="00310072" Composed="0303" />
+        <DEADKEY Both="00310073" Composed="0307" />
+        <DEADKEY Both="00310074" Composed="030B" />
+        <DEADKEY Both="00310077" Composed="0300" />
+        <DEADKEY Both="00310079" Composed="0306" />
+        <DEADKEY Both="0031007A" Composed="0361" />
+        <DEADKEY Both="003100E4" Composed="033D" />
+        <DEADKEY Both="003100F6" Composed="031A" />
+        <DEADKEY Both="003100FC" Composed="030C" />
+        <DEADKEY Both="00320020" Composed="0032" />
+        <DEADKEY Both="00320061" Composed="032A" />
+        <DEADKEY Both="00320062" Composed="0334" />
+        <DEADKEY Both="00320063" Composed="0322" />
+        <DEADKEY Both="00320064" Composed="032C" />
+        <DEADKEY Both="00320065" Composed="0324" />
+        <DEADKEY Both="00320066" Composed="031C" />
+        <DEADKEY Both="00320067" Composed="0339" />
+        <DEADKEY Both="00320068" Composed="0319" />
+        <DEADKEY Both="00320069" Composed="031E" />
+        <DEADKEY Both="0032006A" Composed="0318" />
+        <DEADKEY Both="0032006B" Composed="032F" />
+        <DEADKEY Both="0032006C" Composed="033A" />
+        <DEADKEY Both="0032006D" Composed="032B" />
+        <DEADKEY Both="00320070" Composed="0325" />
+        <DEADKEY Both="00320071" Composed="0317" />
+        <DEADKEY Both="00320072" Composed="0330" />
+        <DEADKEY Both="00320073" Composed="0323" />
+        <DEADKEY Both="00320074" Composed="0329" />
+        <DEADKEY Both="00320076" Composed="033C" />
+        <DEADKEY Both="00320077" Composed="0316" />
+        <DEADKEY Both="00320078" Composed="0321" />
+        <DEADKEY Both="00320079" Composed="0320" />
+        <DEADKEY Both="0032007A" Composed="033B" />
+        <DEADKEY Both="003200E4" Composed="032A" />
+        <DEADKEY Both="003200F6" Composed="031D" />
+        <DEADKEY Both="003200FC" Composed="031F" />
+        <DEADKEY Both="00330020" Composed="0033" />
+        <DEADKEY Both="00330062" Composed="002F" />
+        <DEADKEY Both="00330063" Composed="0029" />
+        <DEADKEY Both="00330066" Composed="02BB" />
+        <DEADKEY Both="00330067" Composed="02BC" />
+        <DEADKEY Both="00330068" Composed="005B" />
+        <DEADKEY Both="00330069" Composed="02E7" />
+        <DEADKEY Both="0033006A" Composed="005D" />
+        <DEADKEY Both="0033006B" Composed="A71B" />
+        <DEADKEY Both="0033006C" Composed="A71C" />
+        <DEADKEY Both="0033006D" Composed="2016" />
+        <DEADKEY Both="0033006E" Composed="007C" />
+        <DEADKEY Both="00330070" Composed="02E9" />
+        <DEADKEY Both="00330071" Composed="02D1" />
+        <DEADKEY Both="00330072" Composed="02DE" />
+        <DEADKEY Both="00330074" Composed="02F9" />
+        <DEADKEY Both="00330076" Composed="02C8" />
+        <DEADKEY Both="00330077" Composed="02D0" />
+        <DEADKEY Both="00330078" Composed="0028" />
+        <DEADKEY Both="00330079" Composed="02E5" />
+        <DEADKEY Both="003300F6" Composed="02E8" />
+        <DEADKEY Both="003300FC" Composed="02E6" />
+        <DEADKEY Both="00340020" Composed="0034" />
+        <DEADKEY Both="00340061" Composed="002C" />
+        <DEADKEY Both="00340063" Composed="2E29" />
+        <DEADKEY Both="00340068" Composed="007B" />
+        <DEADKEY Both="00340069" Composed="02D5" />
+        <DEADKEY Both="0034006A" Composed="007D" />
+        <DEADKEY Both="0034006B" Composed="2197" />
+        <DEADKEY Both="0034006C" Composed="2198" />
+        <DEADKEY Both="00340071" Composed="02CF" />
+        <DEADKEY Both="00340073" Composed="002E" />
+        <DEADKEY Both="00340074" Composed="02CC" />
+        <DEADKEY Both="00340077" Composed="02CE" />
+        <DEADKEY Both="00340078" Composed="2E28" />
+        <DEADKEY Both="00340079" Composed="02D7" />
+        <DEADKEY Both="0034007A" Composed="203F" />
+        <DEADKEY Both="003400E4" Composed="002C" />
+        <DEADKEY Both="003400F6" Composed="02D4" />
+        <DEADKEY Both="003400FC" Composed="02D6" />
+        <DEADKEY Both="005E0020" Composed="005E" />
+        <DEADKEY Both="005E0028" Composed="207D" />
+        <DEADKEY Both="005E0029" Composed="207E" />
+        <DEADKEY Both="005E002B" Composed="207A" />
+        <DEADKEY Both="005E002D" Composed="207B" />
+        <DEADKEY Both="005E0030" Composed="2070" />
+        <DEADKEY Both="005E0031" Composed="00B9" />
+        <DEADKEY Both="005E0032" Composed="00B2" />
+        <DEADKEY Both="005E0033" Composed="00B3" />
+        <DEADKEY Both="005E0034" Composed="2074" />
+        <DEADKEY Both="005E0035" Composed="2075" />
+        <DEADKEY Both="005E0036" Composed="2076" />
+        <DEADKEY Both="005E0037" Composed="2077" />
+        <DEADKEY Both="005E0038" Composed="2078" />
+        <DEADKEY Both="005E0039" Composed="2079" />
+        <DEADKEY Both="005E003D" Composed="2259" />
+        <DEADKEY Both="005E0041" Composed="00C2" />
+        <DEADKEY Both="005E0043" Composed="0108" />
+        <DEADKEY Both="005E0045" Composed="00CA" />
+        <DEADKEY Both="005E0047" Composed="011C" />
+        <DEADKEY Both="005E0048" Composed="0124" />
+        <DEADKEY Both="005E0049" Composed="00CE" />
+        <DEADKEY Both="005E004A" Composed="0134" />
+        <DEADKEY Both="005E004F" Composed="00D4" />
+        <DEADKEY Both="005E0053" Composed="015C" />
+        <DEADKEY Both="005E0055" Composed="00DB" />
+        <DEADKEY Both="005E0057" Composed="0174" />
+        <DEADKEY Both="005E0059" Composed="0176" />
+        <DEADKEY Both="005E005A" Composed="1E90" />
+        <DEADKEY Both="005E005E" Composed="0302" />
+        <DEADKEY Both="005E0060" Composed="0532" Flags="DEAD" />
+        <DEADKEY Both="005E0061" Composed="00E2" />
+        <DEADKEY Both="005E0063" Composed="0109" />
+        <DEADKEY Both="005E0065" Composed="00EA" />
+        <DEADKEY Both="005E0067" Composed="011D" />
+        <DEADKEY Both="005E0068" Composed="0125" />
+        <DEADKEY Both="005E0069" Composed="00EE" />
+        <DEADKEY Both="005E006A" Composed="0135" />
+        <DEADKEY Both="005E006F" Composed="00F4" />
+        <DEADKEY Both="005E0073" Composed="015D" />
+        <DEADKEY Both="005E0075" Composed="00FB" />
+        <DEADKEY Both="005E0077" Composed="0175" />
+        <DEADKEY Both="005E0079" Composed="0177" />
+        <DEADKEY Both="005E007A" Composed="1E91" />
+        <DEADKEY Both="005E00B4" Composed="0531" Flags="DEAD" />
+        <DEADKEY Both="005E02C0" Composed="0533" Flags="DEAD" />
+        <DEADKEY Both="005E02C7" Composed="054B" Flags="DEAD" />
+        <DEADKEY Both="005E02CC" Composed="0535" Flags="DEAD" />
+        <DEADKEY Both="005E02DC" Composed="0534" Flags="DEAD" />
+        <DEADKEY Both="00600020" Composed="0060" />
+        <DEADKEY Both="00600041" Composed="00C0" />
+        <DEADKEY Both="00600045" Composed="00C8" />
+        <DEADKEY Both="00600049" Composed="00CC" />
+        <DEADKEY Both="0060004E" Composed="01F8" />
+        <DEADKEY Both="0060004F" Composed="00D2" />
+        <DEADKEY Both="00600055" Composed="00D9" />
+        <DEADKEY Both="00600057" Composed="1E80" />
+        <DEADKEY Both="00600059" Composed="1EF2" />
+        <DEADKEY Both="0060005E" Composed="0532" Flags="DEAD" />
+        <DEADKEY Both="00600060" Composed="0300" />
+        <DEADKEY Both="00600061" Composed="00E0" />
+        <DEADKEY Both="00600065" Composed="00E8" />
+        <DEADKEY Both="00600069" Composed="00EC" />
+        <DEADKEY Both="0060006E" Composed="01F9" />
+        <DEADKEY Both="0060006F" Composed="00F2" />
+        <DEADKEY Both="00600075" Composed="00F9" />
+        <DEADKEY Both="00600077" Composed="1E81" />
+        <DEADKEY Both="00600079" Composed="1EF3" />
+        <DEADKEY Both="006000A8" Composed="01DC" Flags="DEAD" />
+        <DEADKEY Both="006000AF" Composed="0542" Flags="DEAD" />
+        <DEADKEY Both="006000DC" Composed="01DB" />
+        <DEADKEY Both="006000FC" Composed="01DC" />
+        <DEADKEY Both="006002BC" Composed="0544" Flags="DEAD" />
+        <DEADKEY Both="006002D8" Composed="0537" Flags="DEAD" />
+        <DEADKEY Both="00610020" Composed="0061" />
+        <DEADKEY Both="00610030" Composed="0061" />
+        <DEADKEY Both="00610033" Composed="0250" />
+        <DEADKEY Both="00610035" Composed="0251" />
+        <DEADKEY Both="00610036" Composed="0252" />
+        <DEADKEY Both="00610039" Composed="00E6" />
+        <DEADKEY Both="00620020" Composed="0062" />
+        <DEADKEY Both="00620030" Composed="0062" />
+        <DEADKEY Both="00620032" Composed="0299" />
+        <DEADKEY Both="00620034" Composed="0253" />
+        <DEADKEY Both="00620035" Composed="03B2" />
+        <DEADKEY Both="00620036" Composed="A7B5" />
+        <DEADKEY Both="00620038" Composed="005B" />
+        <DEADKEY Both="00620039" Composed="005D" />
+        <DEADKEY Both="00630020" Composed="0063" />
+        <DEADKEY Both="00630030" Composed="0063" />
+        <DEADKEY Both="00630034" Composed="0188" />
+        <DEADKEY Both="00630035" Composed="00E7" />
+        <DEADKEY Both="00630036" Composed="0297" />
+        <DEADKEY Both="00630038" Composed="0255" />
+        <DEADKEY Both="00640020" Composed="0064" />
+        <DEADKEY Both="00640030" Composed="0064" />
+        <DEADKEY Both="00640032" Composed="1D91" />
+        <DEADKEY Both="00640034" Composed="0257" />
+        <DEADKEY Both="00640035" Composed="00F0" />
+        <DEADKEY Both="00640036" Composed="0256" />
+        <DEADKEY Both="00640037" Composed="02A3" />
+        <DEADKEY Both="00640038" Composed="02A4" />
+        <DEADKEY Both="00640039" Composed="02A5" />
+        <DEADKEY Both="00650020" Composed="0065" />
+        <DEADKEY Both="00650030" Composed="0065" />
+        <DEADKEY Both="00650031" Composed="1D4A" />
+        <DEADKEY Both="00650032" Composed="025D" />
+        <DEADKEY Both="00650033" Composed="0259" />
+        <DEADKEY Both="00650034" Composed="025A" />
+        <DEADKEY Both="00650035" Composed="025B" />
+        <DEADKEY Both="00650036" Composed="025C" />
+        <DEADKEY Both="00650037" Composed="025E" />
+        <DEADKEY Both="00650038" Composed="029A" />
+        <DEADKEY Both="00650039" Composed="0258" />
+        <DEADKEY Both="00660020" Composed="0066" />
+        <DEADKEY Both="00660030" Composed="0066" />
+        <DEADKEY Both="00660031" Composed="01C0" />
+        <DEADKEY Both="00660032" Composed="01C1" />
+        <DEADKEY Both="00660033" Composed="01C2" />
+        <DEADKEY Both="00660034" Composed="01C3" />
+        <DEADKEY Both="00660035" Composed="0298" />
+        <DEADKEY Both="00660037" Composed="0278" />
+        <DEADKEY Both="00670020" Composed="0067" />
+        <DEADKEY Both="00670030" Composed="0067" />
+        <DEADKEY Both="00670032" Composed="0262" />
+        <DEADKEY Both="00670034" Composed="0260" />
+        <DEADKEY Both="00670035" Composed="0263" />
+        <DEADKEY Both="00670036" Composed="0261" />
+        <DEADKEY Both="00670037" Composed="029B" />
+        <DEADKEY Both="00670038" Composed="0264" />
+        <DEADKEY Both="00670039" Composed="02E0" />
+        <DEADKEY Both="00680020" Composed="0068" />
+        <DEADKEY Both="00680030" Composed="0068" />
+        <DEADKEY Both="00680031" Composed="02B0" />
+        <DEADKEY Both="00680032" Composed="029C" />
+        <DEADKEY Both="00680033" Composed="0265" />
+        <DEADKEY Both="00680034" Composed="0266" />
+        <DEADKEY Both="00680035" Composed="A7F8" />
+        <DEADKEY Both="00680036" Composed="0267" />
+        <DEADKEY Both="00680037" Composed="0127" />
+        <DEADKEY Both="00680038" Composed="02AE" />
+        <DEADKEY Both="00680039" Composed="02AF" />
+        <DEADKEY Both="00690020" Composed="0069" />
+        <DEADKEY Both="00690030" Composed="0069" />
+        <DEADKEY Both="00690032" Composed="026A" />
+        <DEADKEY Both="00690035" Composed="0269" />
+        <DEADKEY Both="00690037" Composed="0268" />
+        <DEADKEY Both="00690038" Composed="02D1" />
+        <DEADKEY Both="00690039" Composed="02D0" />
+        <DEADKEY Both="006A0020" Composed="006A" />
+        <DEADKEY Both="006A0030" Composed="006A" />
+        <DEADKEY Both="006A0031" Composed="02B2" />
+        <DEADKEY Both="006A0036" Composed="029D" />
+        <DEADKEY Both="006A0037" Composed="025F" />
+        <DEADKEY Both="006A0038" Composed="0284" />
+        <DEADKEY Both="006A0039" Composed="203F" />
+        <DEADKEY Both="006B0020" Composed="006B" />
+        <DEADKEY Both="006B0030" Composed="006B" />
+        <DEADKEY Both="006B0033" Composed="029E" />
+        <DEADKEY Both="006B0034" Composed="0199" />
+        <DEADKEY Both="006C0020" Composed="006C" />
+        <DEADKEY Both="006C0030" Composed="006C" />
+        <DEADKEY Both="006C0031" Composed="02E1" />
+        <DEADKEY Both="006C0032" Composed="029F" />
+        <DEADKEY Both="006C0033" Composed="019B" />
+        <DEADKEY Both="006C0034" Composed="026C" />
+        <DEADKEY Both="006C0035" Composed="03BB" />
+        <DEADKEY Both="006C0036" Composed="026D" />
+        <DEADKEY Both="006C0037" Composed="026B" />
+        <DEADKEY Both="006C0038" Composed="0234" />
+        <DEADKEY Both="006C0039" Composed="026E" />
+        <DEADKEY Both="006D0020" Composed="006D" />
+        <DEADKEY Both="006D0030" Composed="006D" />
+        <DEADKEY Both="006D0033" Composed="026F" />
+        <DEADKEY Both="006D0036" Composed="0271" />
+        <DEADKEY Both="006D0038" Composed="0270" />
+        <DEADKEY Both="006E0020" Composed="006E" />
+        <DEADKEY Both="006E0030" Composed="006E" />
+        <DEADKEY Both="006E0031" Composed="207F" />
+        <DEADKEY Both="006E0032" Composed="0274" />
+        <DEADKEY Both="006E0035" Composed="0273" />
+        <DEADKEY Both="006E0036" Composed="014B" />
+        <DEADKEY Both="006E0037" Composed="019E" />
+        <DEADKEY Both="006E0038" Composed="0235" />
+        <DEADKEY Both="006E0039" Composed="0272" />
+        <DEADKEY Both="006F0020" Composed="006F" />
+        <DEADKEY Both="006F0030" Composed="006F" />
+        <DEADKEY Both="006F0032" Composed="0276" />
+        <DEADKEY Both="006F0035" Composed="0277" />
+        <DEADKEY Both="006F0036" Composed="0254" />
+        <DEADKEY Both="006F0037" Composed="0275" />
+        <DEADKEY Both="006F0038" Composed="00F8" />
+        <DEADKEY Both="006F0039" Composed="0153" />
+        <DEADKEY Both="00700020" Composed="0070" />
+        <DEADKEY Both="00700030" Composed="0070" />
+        <DEADKEY Both="00700034" Composed="01A5" />
+        <DEADKEY Both="00710020" Composed="0071" />
+        <DEADKEY Both="00710030" Composed="0071" />
+        <DEADKEY Both="00710031" Composed="02E4" />
+        <DEADKEY Both="00710034" Composed="02A0" />
+        <DEADKEY Both="00710035" Composed="0294" />
+        <DEADKEY Both="00710036" Composed="0295" />
+        <DEADKEY Both="00710037" Composed="02A1" />
+        <DEADKEY Both="00710038" Composed="02A2" />
+        <DEADKEY Both="00710039" Composed="0296" />
+        <DEADKEY Both="00720020" Composed="0072" />
+        <DEADKEY Both="00720030" Composed="0072" />
+        <DEADKEY Both="00720031" Composed="027F" />
+        <DEADKEY Both="00720032" Composed="0280" />
+        <DEADKEY Both="00720033" Composed="0279" />
+        <DEADKEY Both="00720034" Composed="027E" />
+        <DEADKEY Both="00720035" Composed="0281" />
+        <DEADKEY Both="00720036" Composed="027D" />
+        <DEADKEY Both="00720037" Composed="027B" />
+        <DEADKEY Both="00720038" Composed="027A" />
+        <DEADKEY Both="00720039" Composed="027C" />
+        <DEADKEY Both="00730020" Composed="0073" />
+        <DEADKEY Both="00730030" Composed="0073" />
+        <DEADKEY Both="00730031" Composed="02E2" />
+        <DEADKEY Both="00730033" Composed="0285" />
+        <DEADKEY Both="00730036" Composed="0283" />
+        <DEADKEY Both="00730037" Composed="0282" />
+        <DEADKEY Both="00730038" Composed="0286" />
+        <DEADKEY Both="00740020" Composed="0074" />
+        <DEADKEY Both="00740030" Composed="0074" />
+        <DEADKEY Both="00740033" Composed="0287" />
+        <DEADKEY Both="00740034" Composed="01AD" />
+        <DEADKEY Both="00740035" Composed="03B8" />
+        <DEADKEY Both="00740036" Composed="0288" />
+        <DEADKEY Both="00740037" Composed="01AB" />
+        <DEADKEY Both="00740038" Composed="0236" />
+        <DEADKEY Both="00740039" Composed="1DBF" />
+        <DEADKEY Both="00750020" Composed="0075" />
+        <DEADKEY Both="00750030" Composed="0075" />
+        <DEADKEY Both="00750035" Composed="028A" />
+        <DEADKEY Both="00750037" Composed="0289" />
+        <DEADKEY Both="00750038" Composed="02CC" />
+        <DEADKEY Both="00750039" Composed="02C8" />
+        <DEADKEY Both="00760020" Composed="0076" />
+        <DEADKEY Both="00760030" Composed="0076" />
+        <DEADKEY Both="00760033" Composed="028C" />
+        <DEADKEY Both="00760034" Composed="2C71" />
+        <DEADKEY Both="00760035" Composed="028B" />
+        <DEADKEY Both="00760038" Composed="007C" />
+        <DEADKEY Both="00760039" Composed="2016" />
+        <DEADKEY Both="00770020" Composed="0077" />
+        <DEADKEY Both="00770030" Composed="0077" />
+        <DEADKEY Both="00770031" Composed="02B7" />
+        <DEADKEY Both="00770033" Composed="028D" />
+        <DEADKEY Both="00780020" Composed="0078" />
+        <DEADKEY Both="00780030" Composed="0078" />
+        <DEADKEY Both="00780031" Composed="02E3" />
+        <DEADKEY Both="00780035" Composed="03C7" />
+        <DEADKEY Both="00780037" Composed="02A6" />
+        <DEADKEY Both="00780038" Composed="02A7" />
+        <DEADKEY Both="00780039" Composed="02A8" />
+        <DEADKEY Both="00790020" Composed="0079" />
+        <DEADKEY Both="00790030" Composed="0079" />
+        <DEADKEY Both="00790031" Composed="02B8" />
+        <DEADKEY Both="00790032" Composed="028F" />
+        <DEADKEY Both="00790033" Composed="028E" />
+        <DEADKEY Both="00790035" Composed="028A" />
+        <DEADKEY Both="007A0020" Composed="007A" />
+        <DEADKEY Both="007A0030" Composed="007A" />
+        <DEADKEY Both="007A0035" Composed="0292" />
+        <DEADKEY Both="007A0036" Composed="0290" />
+        <DEADKEY Both="007A0037" Composed="01BB" />
+        <DEADKEY Both="007A0038" Composed="0291" />
+        <DEADKEY Both="007A0039" Composed="0293" />
+        <DEADKEY Both="00A80020" Composed="00A8" />
+        <DEADKEY Both="00A8002D" Composed="2E1A" />
+        <DEADKEY Both="00A80041" Composed="00C4" />
+        <DEADKEY Both="00A80045" Composed="00CB" />
+        <DEADKEY Both="00A80048" Composed="1E26" />
+        <DEADKEY Both="00A80049" Composed="00CF" />
+        <DEADKEY Both="00A8004F" Composed="00D6" />
+        <DEADKEY Both="00A80055" Composed="00DC" />
+        <DEADKEY Both="00A80057" Composed="1E84" />
+        <DEADKEY Both="00A80058" Composed="1E8C" />
+        <DEADKEY Both="00A80059" Composed="0178" />
+        <DEADKEY Both="00A80060" Composed="01DC" Flags="DEAD" />
+        <DEADKEY Both="00A80061" Composed="00E4" />
+        <DEADKEY Both="00A80065" Composed="00EB" />
+        <DEADKEY Both="00A80068" Composed="1E27" />
+        <DEADKEY Both="00A80069" Composed="00EF" />
+        <DEADKEY Both="00A8006F" Composed="00F6" />
+        <DEADKEY Both="00A80074" Composed="1E97" />
+        <DEADKEY Both="00A80075" Composed="00FC" />
+        <DEADKEY Both="00A80077" Composed="1E85" />
+        <DEADKEY Both="00A80078" Composed="1E8D" />
+        <DEADKEY Both="00A80079" Composed="00FF" />
+        <DEADKEY Both="00A800A8" Composed="0308" />
+        <DEADKEY Both="00A800AF" Composed="01DF" Flags="DEAD" />
+        <DEADKEY Both="00A800B4" Composed="053E" Flags="DEAD" />
+        <DEADKEY Both="00A802BC" Composed="03CA" Flags="DEAD" />
+        <DEADKEY Both="00A802C7" Composed="01DA" Flags="DEAD" />
+        <DEADKEY Both="00A802DC" Composed="0541" Flags="DEAD" />
+        <DEADKEY Both="00AF0020" Composed="00AF" />
+        <DEADKEY Both="00AF002D" Composed="2E40" />
+        <DEADKEY Both="00AF003D" Composed="2261" />
+        <DEADKEY Both="00AF0041" Composed="0100" />
+        <DEADKEY Both="00AF0045" Composed="0112" />
+        <DEADKEY Both="00AF0047" Composed="1E20" />
+        <DEADKEY Both="00AF0049" Composed="012A" />
+        <DEADKEY Both="00AF004F" Composed="014C" />
+        <DEADKEY Both="00AF0055" Composed="016A" />
+        <DEADKEY Both="00AF0059" Composed="0232" />
+        <DEADKEY Both="00AF0060" Composed="0542" Flags="DEAD" />
+        <DEADKEY Both="00AF0061" Composed="0101" />
+        <DEADKEY Both="00AF0065" Composed="0113" />
+        <DEADKEY Both="00AF0067" Composed="1E21" />
+        <DEADKEY Both="00AF0069" Composed="012B" />
+        <DEADKEY Both="00AF006F" Composed="014D" />
+        <DEADKEY Both="00AF0075" Composed="016B" />
+        <DEADKEY Both="00AF0079" Composed="0233" />
+        <DEADKEY Both="00AF00A8" Composed="01DF" Flags="DEAD" />
+        <DEADKEY Both="00AF00AF" Composed="0304" />
+        <DEADKEY Both="00AF00B4" Composed="053B" Flags="DEAD" />
+        <DEADKEY Both="00AF00C4" Composed="01DE" />
+        <DEADKEY Both="00AF00D6" Composed="022A" />
+        <DEADKEY Both="00AF00DC" Composed="01D5" />
+        <DEADKEY Both="00AF00E4" Composed="01DF" />
+        <DEADKEY Both="00AF00F6" Composed="022B" />
+        <DEADKEY Both="00AF00FC" Composed="01D6" />
+        <DEADKEY Both="00AF02CC" Composed="053F" Flags="DEAD" />
+        <DEADKEY Both="00AF02D9" Composed="01E1" Flags="DEAD" />
+        <DEADKEY Both="00AF02DB" Composed="01ED" Flags="DEAD" />
+        <DEADKEY Both="00AF02DC" Composed="022D" Flags="DEAD" />
+        <DEADKEY Both="00AF02DF" Composed="01E3" Flags="DEAD" />
+        <DEADKEY Both="00B40020" Composed="00B4" />
+        <DEADKEY Both="00B40041" Composed="00C1" />
+        <DEADKEY Both="00B40043" Composed="0106" />
+        <DEADKEY Both="00B40045" Composed="00C9" />
+        <DEADKEY Both="00B40047" Composed="01F4" />
+        <DEADKEY Both="00B40049" Composed="00CD" />
+        <DEADKEY Both="00B4004B" Composed="1E30" />
+        <DEADKEY Both="00B4004C" Composed="0139" />
+        <DEADKEY Both="00B4004D" Composed="1E3E" />
+        <DEADKEY Both="00B4004E" Composed="0143" />
+        <DEADKEY Both="00B4004F" Composed="00D3" />
+        <DEADKEY Both="00B40050" Composed="1E54" />
+        <DEADKEY Both="00B40052" Composed="0154" />
+        <DEADKEY Both="00B40053" Composed="015A" />
+        <DEADKEY Both="00B40055" Composed="00DA" />
+        <DEADKEY Both="00B40057" Composed="1E82" />
+        <DEADKEY Both="00B40059" Composed="00DD" />
+        <DEADKEY Both="00B4005A" Composed="0179" />
+        <DEADKEY Both="00B4005E" Composed="0531" Flags="DEAD" />
+        <DEADKEY Both="00B40061" Composed="00E1" />
+        <DEADKEY Both="00B40063" Composed="0107" />
+        <DEADKEY Both="00B40065" Composed="00E9" />
+        <DEADKEY Both="00B40067" Composed="01F5" />
+        <DEADKEY Both="00B40069" Composed="00ED" />
+        <DEADKEY Both="00B4006B" Composed="1E31" />
+        <DEADKEY Both="00B4006C" Composed="013A" />
+        <DEADKEY Both="00B4006D" Composed="1E3F" />
+        <DEADKEY Both="00B4006E" Composed="0144" />
+        <DEADKEY Both="00B4006F" Composed="00F3" />
+        <DEADKEY Both="00B40070" Composed="1E55" />
+        <DEADKEY Both="00B40072" Composed="0155" />
+        <DEADKEY Both="00B40073" Composed="015B" />
+        <DEADKEY Both="00B40075" Composed="00FA" />
+        <DEADKEY Both="00B40077" Composed="1E83" />
+        <DEADKEY Both="00B40079" Composed="00FD" />
+        <DEADKEY Both="00B4007A" Composed="017A" />
+        <DEADKEY Both="00B400A8" Composed="053E" Flags="DEAD" />
+        <DEADKEY Both="00B400AF" Composed="053B" Flags="DEAD" />
+        <DEADKEY Both="00B400B4" Composed="0301" />
+        <DEADKEY Both="00B400B8" Composed="053C" Flags="DEAD" />
+        <DEADKEY Both="00B400DC" Composed="01D7" />
+        <DEADKEY Both="00B400FC" Composed="01D8" />
+        <DEADKEY Both="00B402BC" Composed="0543" Flags="DEAD" />
+        <DEADKEY Both="00B402D8" Composed="0536" Flags="DEAD" />
+        <DEADKEY Both="00B402D9" Composed="0548" Flags="DEAD" />
+        <DEADKEY Both="00B402DA" Composed="01FB" Flags="DEAD" />
+        <DEADKEY Both="00B402DC" Composed="0540" Flags="DEAD" />
+        <DEADKEY Both="00B402DF" Composed="01FF" Flags="DEAD" />
+        <DEADKEY Both="00B80020" Composed="00B8" />
+        <DEADKEY Both="00B80043" Composed="00C7" />
+        <DEADKEY Both="00B80044" Composed="1E10" />
+        <DEADKEY Both="00B80045" Composed="0228" />
+        <DEADKEY Both="00B80047" Composed="0122" />
+        <DEADKEY Both="00B80048" Composed="1E28" />
+        <DEADKEY Both="00B8004B" Composed="0136" />
+        <DEADKEY Both="00B8004C" Composed="013B" />
+        <DEADKEY Both="00B8004E" Composed="0145" />
+        <DEADKEY Both="00B80052" Composed="0156" />
+        <DEADKEY Both="00B80053" Composed="015E" />
+        <DEADKEY Both="00B80054" Composed="0162" />
+        <DEADKEY Both="00B80063" Composed="00E7" />
+        <DEADKEY Both="00B80064" Composed="1E11" />
+        <DEADKEY Both="00B80065" Composed="0229" />
+        <DEADKEY Both="00B80067" Composed="0123" />
+        <DEADKEY Both="00B80068" Composed="1E29" />
+        <DEADKEY Both="00B8006B" Composed="0137" />
+        <DEADKEY Both="00B8006C" Composed="013C" />
+        <DEADKEY Both="00B8006E" Composed="0146" />
+        <DEADKEY Both="00B80072" Composed="0157" />
+        <DEADKEY Both="00B80073" Composed="015F" />
+        <DEADKEY Both="00B80074" Composed="0163" />
+        <DEADKEY Both="00B800B4" Composed="053C" Flags="DEAD" />
+        <DEADKEY Both="00B800B8" Composed="0327" />
+        <DEADKEY Both="00B802D8" Composed="053D" Flags="DEAD" />
+        <DEADKEY Both="01DA0020" Composed="01DA" />
+        <DEADKEY Both="01DA0055" Composed="01D9" />
+        <DEADKEY Both="01DA0075" Composed="01DA" />
+        <DEADKEY Both="01DC0020" Composed="01DC" />
+        <DEADKEY Both="01DC0055" Composed="01DB" />
+        <DEADKEY Both="01DC0075" Composed="01DC" />
+        <DEADKEY Both="01DF0020" Composed="01DF" />
+        <DEADKEY Both="01DF0041" Composed="01DE" />
+        <DEADKEY Both="01DF004F" Composed="022A" />
+        <DEADKEY Both="01DF0055" Composed="1E7A" />
+        <DEADKEY Both="01DF0061" Composed="01DF" />
+        <DEADKEY Both="01DF006F" Composed="022B" />
+        <DEADKEY Both="01DF0075" Composed="1E7B" />
+        <DEADKEY Both="01E10020" Composed="01E1" />
+        <DEADKEY Both="01E10041" Composed="01E0" />
+        <DEADKEY Both="01E1004F" Composed="0230" />
+        <DEADKEY Both="01E10061" Composed="01E1" />
+        <DEADKEY Both="01E1006F" Composed="0231" />
+        <DEADKEY Both="01E30020" Composed="01E3" />
+        <DEADKEY Both="01E300C4" Composed="01E2" />
+        <DEADKEY Both="01E300E4" Composed="01E3" />
+        <DEADKEY Both="01ED0020" Composed="01ED" />
+        <DEADKEY Both="01ED004F" Composed="01EC" />
+        <DEADKEY Both="01ED006F" Composed="01ED" />
+        <DEADKEY Both="01EF0020" Composed="01EF" />
+        <DEADKEY Both="01EF005A" Composed="01EE" />
+        <DEADKEY Both="01EF007A" Composed="01EF" />
+        <DEADKEY Both="01FB0020" Composed="01FB" />
+        <DEADKEY Both="01FB0041" Composed="01FA" />
+        <DEADKEY Both="01FB0061" Composed="01FB" />
+        <DEADKEY Both="01FF0020" Composed="01FF" />
+        <DEADKEY Both="01FF004F" Composed="01FE" />
+        <DEADKEY Both="01FF006F" Composed="01FF" />
+        <DEADKEY Both="01FF00C4" Composed="01FC" />
+        <DEADKEY Both="01FF00E4" Composed="01FD" />
+        <DEADKEY Both="022D0020" Composed="022D" />
+        <DEADKEY Both="022D004F" Composed="022C" />
+        <DEADKEY Both="022D006F" Composed="022D" />
+        <DEADKEY Both="02B70020" Composed="02B7" />
+        <DEADKEY Both="02B70041" Composed="1D2C" />
+        <DEADKEY Both="02B70042" Composed="1D2E" />
+        <DEADKEY Both="02B70043" Composed="A7F2" />
+        <DEADKEY Both="02B70044" Composed="1D30" />
+        <DEADKEY Both="02B70045" Composed="1D31" />
+        <DEADKEY Both="02B70046" Composed="A7F3" />
+        <DEADKEY Both="02B70047" Composed="1D33" />
+        <DEADKEY Both="02B70048" Composed="1D34" />
+        <DEADKEY Both="02B70049" Composed="1D35" />
+        <DEADKEY Both="02B7004A" Composed="1D36" />
+        <DEADKEY Both="02B7004B" Composed="1D37" />
+        <DEADKEY Both="02B7004C" Composed="1D38" />
+        <DEADKEY Both="02B7004D" Composed="1D39" />
+        <DEADKEY Both="02B7004E" Composed="1D3A" />
+        <DEADKEY Both="02B7004F" Composed="1D3C" />
+        <DEADKEY Both="02B70050" Composed="1D3E" />
+        <DEADKEY Both="02B70051" Composed="A7F4" />
+        <DEADKEY Both="02B70052" Composed="1D3F" />
+        <DEADKEY Both="02B70054" Composed="1D40" />
+        <DEADKEY Both="02B70055" Composed="1D41" />
+        <DEADKEY Both="02B70056" Composed="2C7D" />
+        <DEADKEY Both="02B70057" Composed="1D42" />
+        <DEADKEY Both="02B70061" Composed="1D43" />
+        <DEADKEY Both="02B70062" Composed="1D47" />
+        <DEADKEY Both="02B70063" Composed="1D9C" />
+        <DEADKEY Both="02B70064" Composed="1D48" />
+        <DEADKEY Both="02B70065" Composed="1D49" />
+        <DEADKEY Both="02B70066" Composed="1DA0" />
+        <DEADKEY Both="02B70067" Composed="1D4D" />
+        <DEADKEY Both="02B70068" Composed="02B0" />
+        <DEADKEY Both="02B70069" Composed="2071" />
+        <DEADKEY Both="02B7006A" Composed="02B2" />
+        <DEADKEY Both="02B7006B" Composed="1D4F" />
+        <DEADKEY Both="02B7006C" Composed="02E1" />
+        <DEADKEY Both="02B7006D" Composed="1D50" />
+        <DEADKEY Both="02B7006E" Composed="207F" />
+        <DEADKEY Both="02B7006F" Composed="1D52" />
+        <DEADKEY Both="02B70070" Composed="1D56" />
+        <DEADKEY Both="02B70072" Composed="02B3" />
+        <DEADKEY Both="02B70073" Composed="02E2" />
+        <DEADKEY Both="02B70074" Composed="1D57" />
+        <DEADKEY Both="02B70075" Composed="1D58" />
+        <DEADKEY Both="02B70076" Composed="1D5B" />
+        <DEADKEY Both="02B70077" Composed="02B7" />
+        <DEADKEY Both="02B70078" Composed="02E3" />
+        <DEADKEY Both="02B70079" Composed="02B8" />
+        <DEADKEY Both="02B7007A" Composed="1DBB" />
+        <DEADKEY Both="02BC0020" Composed="02BC" />
+        <DEADKEY Both="02BC0031" Composed="215B" />
+        <DEADKEY Both="02BC0033" Composed="215C" />
+        <DEADKEY Both="02BC0035" Composed="215D" />
+        <DEADKEY Both="02BC0037" Composed="215E" />
+        <DEADKEY Both="02BC0041" Composed="0391" />
+        <DEADKEY Both="02BC0042" Composed="0392" />
+        <DEADKEY Both="02BC0043" Composed="03A8" />
+        <DEADKEY Both="02BC0044" Composed="0394" />
+        <DEADKEY Both="02BC0045" Composed="0395" />
+        <DEADKEY Both="02BC0046" Composed="03A6" />
+        <DEADKEY Both="02BC0047" Composed="0393" />
+        <DEADKEY Both="02BC0048" Composed="0397" />
+        <DEADKEY Both="02BC0049" Composed="0399" />
+        <DEADKEY Both="02BC004A" Composed="039E" />
+        <DEADKEY Both="02BC004B" Composed="039A" />
+        <DEADKEY Both="02BC004C" Composed="039B" />
+        <DEADKEY Both="02BC004D" Composed="039C" />
+        <DEADKEY Both="02BC004E" Composed="039D" />
+        <DEADKEY Both="02BC004F" Composed="01A0" />
+        <DEADKEY Both="02BC0050" Composed="03A0" />
+        <DEADKEY Both="02BC0051" Composed="0342" />
+        <DEADKEY Both="02BC0052" Composed="03A1" />
+        <DEADKEY Both="02BC0053" Composed="03A3" />
+        <DEADKEY Both="02BC0054" Composed="03A4" />
+        <DEADKEY Both="02BC0055" Composed="01AF" />
+        <DEADKEY Both="02BC0056" Composed="03A9" />
+        <DEADKEY Both="02BC0057" Composed="0314" />
+        <DEADKEY Both="02BC0058" Composed="03A7" />
+        <DEADKEY Both="02BC0059" Composed="03A5" />
+        <DEADKEY Both="02BC005A" Composed="0396" />
+        <DEADKEY Both="02BC0060" Composed="0544" Flags="DEAD" />
+        <DEADKEY Both="02BC0061" Composed="03B1" />
+        <DEADKEY Both="02BC0062" Composed="03B2" />
+        <DEADKEY Both="02BC0063" Composed="03C8" />
+        <DEADKEY Both="02BC0064" Composed="03B4" />
+        <DEADKEY Both="02BC0065" Composed="03B5" />
+        <DEADKEY Both="02BC0066" Composed="03C6" />
+        <DEADKEY Both="02BC0067" Composed="03B3" />
+        <DEADKEY Both="02BC0068" Composed="03B7" />
+        <DEADKEY Both="02BC0069" Composed="03B9" />
+        <DEADKEY Both="02BC006A" Composed="03BE" />
+        <DEADKEY Both="02BC006B" Composed="03BA" />
+        <DEADKEY Both="02BC006C" Composed="03BB" />
+        <DEADKEY Both="02BC006D" Composed="03BC" />
+        <DEADKEY Both="02BC006E" Composed="03BD" />
+        <DEADKEY Both="02BC006F" Composed="01A1" />
+        <DEADKEY Both="02BC0070" Composed="03C0" />
+        <DEADKEY Both="02BC0071" Composed="0345" />
+        <DEADKEY Both="02BC0072" Composed="03C1" />
+        <DEADKEY Both="02BC0073" Composed="03C3" />
+        <DEADKEY Both="02BC0074" Composed="03C4" />
+        <DEADKEY Both="02BC0075" Composed="01B0" />
+        <DEADKEY Both="02BC0076" Composed="03C9" />
+        <DEADKEY Both="02BC0077" Composed="03C2" />
+        <DEADKEY Both="02BC0078" Composed="03C7" />
+        <DEADKEY Both="02BC0079" Composed="03C5" />
+        <DEADKEY Both="02BC007A" Composed="03B6" />
+        <DEADKEY Both="02BC00A8" Composed="03CA" Flags="DEAD" />
+        <DEADKEY Both="02BC00B4" Composed="0543" Flags="DEAD" />
+        <DEADKEY Both="02BC00C4" Composed="0391" />
+        <DEADKEY Both="02BC00D6" Composed="039F" />
+        <DEADKEY Both="02BC00DC" Composed="0398" />
+        <DEADKEY Both="02BC00DF" Composed="0313" />
+        <DEADKEY Both="02BC00E4" Composed="03B1" />
+        <DEADKEY Both="02BC00F6" Composed="03BF" />
+        <DEADKEY Both="02BC00FC" Composed="03B8" />
+        <DEADKEY Both="02BC02BC" Composed="031B" />
+        <DEADKEY Both="02BC02C0" Composed="0545" Flags="DEAD" />
+        <DEADKEY Both="02BC02CC" Composed="0547" Flags="DEAD" />
+        <DEADKEY Both="02BC02D8" Composed="0390" Flags="DEAD" />
+        <DEADKEY Both="02BC02DC" Composed="0546" Flags="DEAD" />
+        <DEADKEY Both="02C00020" Composed="02C0" />
+        <DEADKEY Both="02C00041" Composed="1EA2" />
+        <DEADKEY Both="02C00045" Composed="1EBA" />
+        <DEADKEY Both="02C00049" Composed="1EC8" />
+        <DEADKEY Both="02C0004F" Composed="1ECE" />
+        <DEADKEY Both="02C00055" Composed="1EE6" />
+        <DEADKEY Both="02C00059" Composed="1EF6" />
+        <DEADKEY Both="02C0005E" Composed="0533" Flags="DEAD" />
+        <DEADKEY Both="02C00061" Composed="1EA3" />
+        <DEADKEY Both="02C00065" Composed="1EBB" />
+        <DEADKEY Both="02C00069" Composed="1EC9" />
+        <DEADKEY Both="02C0006F" Composed="1ECF" />
+        <DEADKEY Both="02C00075" Composed="1EE7" />
+        <DEADKEY Both="02C00079" Composed="1EF7" />
+        <DEADKEY Both="02C002BC" Composed="0545" Flags="DEAD" />
+        <DEADKEY Both="02C002C0" Composed="0309" />
+        <DEADKEY Both="02C002D8" Composed="0538" Flags="DEAD" />
+        <DEADKEY Both="02C70020" Composed="02C7" />
+        <DEADKEY Both="02C70028" Composed="208D" />
+        <DEADKEY Both="02C70029" Composed="208E" />
+        <DEADKEY Both="02C7002B" Composed="208A" />
+        <DEADKEY Both="02C7002D" Composed="208B" />
+        <DEADKEY Both="02C70030" Composed="2080" />
+        <DEADKEY Both="02C70031" Composed="2081" />
+        <DEADKEY Both="02C70032" Composed="2082" />
+        <DEADKEY Both="02C70033" Composed="2083" />
+        <DEADKEY Both="02C70034" Composed="2084" />
+        <DEADKEY Both="02C70035" Composed="2085" />
+        <DEADKEY Both="02C70036" Composed="2086" />
+        <DEADKEY Both="02C70037" Composed="2087" />
+        <DEADKEY Both="02C70038" Composed="2088" />
+        <DEADKEY Both="02C70039" Composed="2089" />
+        <DEADKEY Both="02C7003D" Composed="208C" />
+        <DEADKEY Both="02C70041" Composed="01CD" />
+        <DEADKEY Both="02C70043" Composed="010C" />
+        <DEADKEY Both="02C70044" Composed="010E" />
+        <DEADKEY Both="02C70045" Composed="011A" />
+        <DEADKEY Both="02C70047" Composed="01E6" />
+        <DEADKEY Both="02C70048" Composed="021E" />
+        <DEADKEY Both="02C70049" Composed="01CF" />
+        <DEADKEY Both="02C7004B" Composed="01E8" />
+        <DEADKEY Both="02C7004C" Composed="013D" />
+        <DEADKEY Both="02C7004E" Composed="0147" />
+        <DEADKEY Both="02C7004F" Composed="01D1" />
+        <DEADKEY Both="02C70052" Composed="0158" />
+        <DEADKEY Both="02C70053" Composed="0160" />
+        <DEADKEY Both="02C70054" Composed="0164" />
+        <DEADKEY Both="02C70055" Composed="01D3" />
+        <DEADKEY Both="02C7005A" Composed="017D" />
+        <DEADKEY Both="02C7005E" Composed="054B" Flags="DEAD" />
+        <DEADKEY Both="02C70061" Composed="01CE" />
+        <DEADKEY Both="02C70063" Composed="010D" />
+        <DEADKEY Both="02C70064" Composed="010F" />
+        <DEADKEY Both="02C70065" Composed="011B" />
+        <DEADKEY Both="02C70067" Composed="01E7" />
+        <DEADKEY Both="02C70068" Composed="021F" />
+        <DEADKEY Both="02C70069" Composed="01D0" />
+        <DEADKEY Both="02C7006A" Composed="01F0" />
+        <DEADKEY Both="02C7006B" Composed="01E9" />
+        <DEADKEY Both="02C7006C" Composed="013E" />
+        <DEADKEY Both="02C7006E" Composed="0148" />
+        <DEADKEY Both="02C7006F" Composed="01D2" />
+        <DEADKEY Both="02C70072" Composed="0159" />
+        <DEADKEY Both="02C70073" Composed="0161" />
+        <DEADKEY Both="02C70074" Composed="0165" />
+        <DEADKEY Both="02C70075" Composed="01D4" />
+        <DEADKEY Both="02C7007A" Composed="017E" />
+        <DEADKEY Both="02C700A8" Composed="01DA" Flags="DEAD" />
+        <DEADKEY Both="02C700AF" Composed="035F" />
+        <DEADKEY Both="02C700DC" Composed="01D9" />
+        <DEADKEY Both="02C700FC" Composed="01DA" />
+        <DEADKEY Both="02C702C7" Composed="030C" />
+        <DEADKEY Both="02C702CD" Composed="035F" />
+        <DEADKEY Both="02C702D8" Composed="035C" />
+        <DEADKEY Both="02C702D9" Composed="0549" Flags="DEAD" />
+        <DEADKEY Both="02C702DA" Composed="0325" />
+        <DEADKEY Both="02C702DC" Composed="0330" />
+        <DEADKEY Both="02CC0020" Composed="2E33" />
+        <DEADKEY Both="02CC0041" Composed="1EA0" />
+        <DEADKEY Both="02CC0042" Composed="1E04" />
+        <DEADKEY Both="02CC0044" Composed="1E0C" />
+        <DEADKEY Both="02CC0045" Composed="1EB8" />
+        <DEADKEY Both="02CC0048" Composed="1E24" />
+        <DEADKEY Both="02CC0049" Composed="1ECA" />
+        <DEADKEY Both="02CC004B" Composed="1E32" />
+        <DEADKEY Both="02CC004C" Composed="1E36" />
+        <DEADKEY Both="02CC004D" Composed="1E42" />
+        <DEADKEY Both="02CC004E" Composed="1E46" />
+        <DEADKEY Both="02CC004F" Composed="1ECC" />
+        <DEADKEY Both="02CC0052" Composed="1E5A" />
+        <DEADKEY Both="02CC0053" Composed="1E62" />
+        <DEADKEY Both="02CC0054" Composed="1E6C" />
+        <DEADKEY Both="02CC0055" Composed="1EE4" />
+        <DEADKEY Both="02CC0056" Composed="1E7E" />
+        <DEADKEY Both="02CC0057" Composed="1E88" />
+        <DEADKEY Both="02CC0059" Composed="1EF4" />
+        <DEADKEY Both="02CC005A" Composed="1E92" />
+        <DEADKEY Both="02CC005E" Composed="0535" Flags="DEAD" />
+        <DEADKEY Both="02CC0061" Composed="1EA1" />
+        <DEADKEY Both="02CC0062" Composed="1E05" />
+        <DEADKEY Both="02CC0064" Composed="1E0D" />
+        <DEADKEY Both="02CC0065" Composed="1EB9" />
+        <DEADKEY Both="02CC0068" Composed="1E25" />
+        <DEADKEY Both="02CC0069" Composed="1ECB" />
+        <DEADKEY Both="02CC006B" Composed="1E33" />
+        <DEADKEY Both="02CC006C" Composed="1E37" />
+        <DEADKEY Both="02CC006D" Composed="1E43" />
+        <DEADKEY Both="02CC006E" Composed="1E47" />
+        <DEADKEY Both="02CC006F" Composed="1ECD" />
+        <DEADKEY Both="02CC0072" Composed="1E5B" />
+        <DEADKEY Both="02CC0073" Composed="1E63" />
+        <DEADKEY Both="02CC0074" Composed="1E6D" />
+        <DEADKEY Both="02CC0075" Composed="1EE5" />
+        <DEADKEY Both="02CC0076" Composed="1E7F" />
+        <DEADKEY Both="02CC0077" Composed="1E89" />
+        <DEADKEY Both="02CC0079" Composed="1EF5" />
+        <DEADKEY Both="02CC007A" Composed="1E93" />
+        <DEADKEY Both="02CC007E" Composed="2E1F" />
+        <DEADKEY Both="02CC00AF" Composed="053F" Flags="DEAD" />
+        <DEADKEY Both="02CC02BC" Composed="0547" Flags="DEAD" />
+        <DEADKEY Both="02CC02CC" Composed="0323" />
+        <DEADKEY Both="02CC02D8" Composed="053A" Flags="DEAD" />
+        <DEADKEY Both="02CC02D9" Composed="054A" Flags="DEAD" />
+        <DEADKEY Both="02CD0020" Composed="02CD" />
+        <DEADKEY Both="02CD002B" Composed="00B1" />
+        <DEADKEY Both="02CD002D" Composed="2E40" />
+        <DEADKEY Both="02CD003C" Composed="2264" />
+        <DEADKEY Both="02CD003D" Composed="2261" />
+        <DEADKEY Both="02CD003E" Composed="2265" />
+        <DEADKEY Both="02CD0042" Composed="1E06" />
+        <DEADKEY Both="02CD0044" Composed="1E0E" />
+        <DEADKEY Both="02CD004B" Composed="1E34" />
+        <DEADKEY Both="02CD004C" Composed="1E3A" />
+        <DEADKEY Both="02CD004E" Composed="1E48" />
+        <DEADKEY Both="02CD0052" Composed="1E5E" />
+        <DEADKEY Both="02CD0054" Composed="1E6E" />
+        <DEADKEY Both="02CD005A" Composed="1E94" />
+        <DEADKEY Both="02CD005F" Composed="2017" />
+        <DEADKEY Both="02CD0062" Composed="1E07" />
+        <DEADKEY Both="02CD0064" Composed="1E0F" />
+        <DEADKEY Both="02CD0068" Composed="1E96" />
+        <DEADKEY Both="02CD006B" Composed="1E35" />
+        <DEADKEY Both="02CD006C" Composed="1E3B" />
+        <DEADKEY Both="02CD006E" Composed="1E49" />
+        <DEADKEY Both="02CD0072" Composed="1E5F" />
+        <DEADKEY Both="02CD0074" Composed="1E6F" />
+        <DEADKEY Both="02CD007A" Composed="1E95" />
+        <DEADKEY Both="02CD02CD" Composed="0331" />
+        <DEADKEY Both="02CF0020" Composed="2E34" />
+        <DEADKEY Both="02CF0021" Composed="01C3" />
+        <DEADKEY Both="02CF0022" Composed="01C1" />
+        <DEADKEY Both="02CF0023" Composed="01C2" />
+        <DEADKEY Both="02CF0027" Composed="01C0" />
+        <DEADKEY Both="02CF0028" Composed="2E24" />
+        <DEADKEY Both="02CF0029" Composed="2E25" />
+        <DEADKEY Both="02CF0031" Composed="01C0" />
+        <DEADKEY Both="02CF0032" Composed="01C1" />
+        <DEADKEY Both="02CF0033" Composed="01C2" />
+        <DEADKEY Both="02CF0034" Composed="01C3" />
+        <DEADKEY Both="02CF003D" Composed="2E17" />
+        <DEADKEY Both="02CF003F" Composed="2E2E" />
+        <DEADKEY Both="02CF0042" Composed="A722" />
+        <DEADKEY Both="02CF0043" Composed="A724" />
+        <DEADKEY Both="02CF0046" Composed="0191" />
+        <DEADKEY Both="02CF0047" Composed="0122" />
+        <DEADKEY Both="02CF0048" Composed="01F6" />
+        <DEADKEY Both="02CF0049" Composed="A7BC" />
+        <DEADKEY Both="02CF004B" Composed="0136" />
+        <DEADKEY Both="02CF004C" Composed="013B" />
+        <DEADKEY Both="02CF004E" Composed="0145" />
+        <DEADKEY Both="02CF0051" Composed="0241" />
+        <DEADKEY Both="02CF0052" Composed="211E" />
+        <DEADKEY Both="02CF0053" Composed="0218" />
+        <DEADKEY Both="02CF0054" Composed="021A" />
+        <DEADKEY Both="02CF0057" Composed="01F7" />
+        <DEADKEY Both="02CF0059" Composed="021C" />
+        <DEADKEY Both="02CF005A" Composed="0224" />
+        <DEADKEY Both="02CF005B" Composed="2E22" />
+        <DEADKEY Both="02CF005D" Composed="2E23" />
+        <DEADKEY Both="02CF005E" Composed="032D" />
+        <DEADKEY Both="02CF0060" Composed="030F" />
+        <DEADKEY Both="02CF0062" Composed="A723" />
+        <DEADKEY Both="02CF0063" Composed="A725" />
+        <DEADKEY Both="02CF0066" Composed="0192" />
+        <DEADKEY Both="02CF0067" Composed="0123" />
+        <DEADKEY Both="02CF0068" Composed="0195" />
+        <DEADKEY Both="02CF0069" Composed="A7BD" />
+        <DEADKEY Both="02CF006B" Composed="0137" />
+        <DEADKEY Both="02CF006C" Composed="013C" />
+        <DEADKEY Both="02CF006E" Composed="0146" />
+        <DEADKEY Both="02CF0071" Composed="0242" />
+        <DEADKEY Both="02CF0072" Composed="027C" />
+        <DEADKEY Both="02CF0073" Composed="0219" />
+        <DEADKEY Both="02CF0074" Composed="021B" />
+        <DEADKEY Both="02CF0077" Composed="01BF" />
+        <DEADKEY Both="02CF0079" Composed="021D" />
+        <DEADKEY Both="02CF007A" Composed="0225" />
+        <DEADKEY Both="02CF007C" Composed="2980" />
+        <DEADKEY Both="02CF00AF" Composed="0305" />
+        <DEADKEY Both="02CF00B4" Composed="030D" />
+        <DEADKEY Both="02CF02BC" Composed="0315" />
+        <DEADKEY Both="02CF02C0" Composed="0312" />
+        <DEADKEY Both="02CF02CD" Composed="0332" />
+        <DEADKEY Both="02CF02CF" Composed="0326" />
+        <DEADKEY Both="02CF02D8" Composed="032F" />
+        <DEADKEY Both="02CF02D9" Composed="0358" />
+        <DEADKEY Both="02CF02DB" Composed="1AB7" />
+        <DEADKEY Both="02CF2032" Composed="2035" />
+        <DEADKEY Both="02CF2033" Composed="2036" />
+        <DEADKEY Both="02D70020" Composed="2012" />
+        <DEADKEY Both="02D70023" Composed="203B" />
+        <DEADKEY Both="02D70025" Composed="2114" />
+        <DEADKEY Both="02D70027" Composed="266A" />
+        <DEADKEY Both="02D70028" Composed="FD3E" />
+        <DEADKEY Both="02D70029" Composed="FD3F" />
+        <DEADKEY Both="02D7002A" Composed="2042" />
+        <DEADKEY Both="02D7002B" Composed="2318" />
+        <DEADKEY Both="02D7002C" Composed="25C1" />
+        <DEADKEY Both="02D7002D" Composed="2E3A" />
+        <DEADKEY Both="02D7002E" Composed="25CF" />
+        <DEADKEY Both="02D7002F" Composed="2105" />
+        <DEADKEY Both="02D70030" Composed="2714" />
+        <DEADKEY Both="02D70031" Composed="25FE" />
+        <DEADKEY Both="02D70032" Composed="25FD" />
+        <DEADKEY Both="02D70033" Composed="2751" />
+        <DEADKEY Both="02D70034" Composed="2756" />
+        <DEADKEY Both="02D70035" Composed="2023" />
+        <DEADKEY Both="02D70036" Composed="27A4" />
+        <DEADKEY Both="02D70037" Composed="2B9A" />
+        <DEADKEY Both="02D70038" Composed="2717" />
+        <DEADKEY Both="02D70039" Composed="2718" />
+        <DEADKEY Both="02D7003A" Composed="00F7" />
+        <DEADKEY Both="02D7003B" Composed="25A1" />
+        <DEADKEY Both="02D7003C" Composed="2619" />
+        <DEADKEY Both="02D7003D" Composed="2766" />
+        <DEADKEY Both="02D7003E" Composed="2767" />
+        <DEADKEY Both="02D7003F" Composed="FFFD" />
+        <DEADKEY Both="02D70042" Composed="0243" />
+        <DEADKEY Both="02D70043" Composed="A792" />
+        <DEADKEY Both="02D70044" Composed="0110" />
+        <DEADKEY Both="02D70046" Composed="A798" />
+        <DEADKEY Both="02D70047" Composed="01E4" />
+        <DEADKEY Both="02D70048" Composed="0126" />
+        <DEADKEY Both="02D70049" Composed="0197" />
+        <DEADKEY Both="02D7004A" Composed="0248" />
+        <DEADKEY Both="02D7004B" Composed="A740" />
+        <DEADKEY Both="02D7004C" Composed="023D" />
+        <DEADKEY Both="02D7004F" Composed="019F" />
+        <DEADKEY Both="02D70050" Composed="2C63" />
+        <DEADKEY Both="02D70052" Composed="024C" />
+        <DEADKEY Both="02D70053" Composed="A7C9" />
+        <DEADKEY Both="02D70054" Composed="0166" />
+        <DEADKEY Both="02D70055" Composed="0244" />
+        <DEADKEY Both="02D70059" Composed="024E" />
+        <DEADKEY Both="02D7005A" Composed="01B5" />
+        <DEADKEY Both="02D7005B" Composed="2045" />
+        <DEADKEY Both="02D7005D" Composed="2046" />
+        <DEADKEY Both="02D7005E" Composed="02C6" />
+        <DEADKEY Both="02D70062" Composed="0180" />
+        <DEADKEY Both="02D70063" Composed="A793" />
+        <DEADKEY Both="02D70064" Composed="0111" />
+        <DEADKEY Both="02D70065" Composed="AB33" />
+        <DEADKEY Both="02D70066" Composed="A799" />
+        <DEADKEY Both="02D70067" Composed="01E5" />
+        <DEADKEY Both="02D70068" Composed="0127" />
+        <DEADKEY Both="02D70069" Composed="0268" />
+        <DEADKEY Both="02D7006A" Composed="0249" />
+        <DEADKEY Both="02D7006B" Composed="A741" />
+        <DEADKEY Both="02D7006C" Composed="019A" />
+        <DEADKEY Both="02D7006F" Composed="0275" />
+        <DEADKEY Both="02D70070" Composed="1D7D" />
+        <DEADKEY Both="02D70072" Composed="024D" />
+        <DEADKEY Both="02D70073" Composed="A7CA" />
+        <DEADKEY Both="02D70074" Composed="0167" />
+        <DEADKEY Both="02D70075" Composed="0289" />
+        <DEADKEY Both="02D70079" Composed="024F" />
+        <DEADKEY Both="02D7007A" Composed="01B6" />
+        <DEADKEY Both="02D7007C" Composed="271D" />
+        <DEADKEY Both="02D7007E" Composed="2053" />
+        <DEADKEY Both="02D700B0" Composed="25CC" />
+        <DEADKEY Both="02D700B7" Composed="25C9" />
+        <DEADKEY Both="02D700D6" Composed="200D" />
+        <DEADKEY Both="02D700DC" Composed="2003" />
+        <DEADKEY Both="02D700DF" Composed="2007" />
+        <DEADKEY Both="02D700F6" Composed="200B" />
+        <DEADKEY Both="02D700FC" Composed="2009" />
+        <DEADKEY Both="02D702D7" Composed="0335" />
+        <DEADKEY Both="02D80020" Composed="02D8" />
+        <DEADKEY Both="02D80031" Composed="2153" />
+        <DEADKEY Both="02D80032" Composed="2154" />
+        <DEADKEY Both="02D80041" Composed="0102" />
+        <DEADKEY Both="02D80043" Composed="0187" />
+        <DEADKEY Both="02D80045" Composed="0114" />
+        <DEADKEY Both="02D80047" Composed="011E" />
+        <DEADKEY Both="02D80048" Composed="1E2A" />
+        <DEADKEY Both="02D80049" Composed="012C" />
+        <DEADKEY Both="02D8004A" Composed="0132" />
+        <DEADKEY Both="02D8004F" Composed="014E" />
+        <DEADKEY Both="02D80052" Composed="0212" />
+        <DEADKEY Both="02D80055" Composed="016C" />
+        <DEADKEY Both="02D8005E" Composed="02B7" Flags="DEAD" />
+        <DEADKEY Both="02D80060" Composed="0537" Flags="DEAD" />
+        <DEADKEY Both="02D80061" Composed="0103" />
+        <DEADKEY Both="02D80063" Composed="0188" />
+        <DEADKEY Both="02D80065" Composed="0115" />
+        <DEADKEY Both="02D80067" Composed="011F" />
+        <DEADKEY Both="02D80068" Composed="1E2B" />
+        <DEADKEY Both="02D80069" Composed="012D" />
+        <DEADKEY Both="02D8006A" Composed="0133" />
+        <DEADKEY Both="02D8006B" Composed="0138" />
+        <DEADKEY Both="02D8006E" Composed="0149" />
+        <DEADKEY Both="02D8006F" Composed="014F" />
+        <DEADKEY Both="02D80072" Composed="0213" />
+        <DEADKEY Both="02D80075" Composed="016D" />
+        <DEADKEY Both="02D800B4" Composed="0536" Flags="DEAD" />
+        <DEADKEY Both="02D800B8" Composed="053D" Flags="DEAD" />
+        <DEADKEY Both="02D802BC" Composed="0390" Flags="DEAD" />
+        <DEADKEY Both="02D802C0" Composed="0538" Flags="DEAD" />
+        <DEADKEY Both="02D802C7" Composed="054D" Flags="DEAD" />
+        <DEADKEY Both="02D802CC" Composed="053A" Flags="DEAD" />
+        <DEADKEY Both="02D802D8" Composed="0306" />
+        <DEADKEY Both="02D802DA" Composed="054C" Flags="DEAD" />
+        <DEADKEY Both="02D802DC" Composed="0539" Flags="DEAD" />
+        <DEADKEY Both="02D802DF" Composed="01EF" Flags="DEAD" />
+        <DEADKEY Both="02D90020" Composed="02D9" />
+        <DEADKEY Both="02D90041" Composed="0226" />
+        <DEADKEY Both="02D90042" Composed="1E02" />
+        <DEADKEY Both="02D90043" Composed="010A" />
+        <DEADKEY Both="02D90044" Composed="1E0A" />
+        <DEADKEY Both="02D90045" Composed="0116" />
+        <DEADKEY Both="02D90046" Composed="1E1E" />
+        <DEADKEY Both="02D90047" Composed="0120" />
+        <DEADKEY Both="02D90048" Composed="1E22" />
+        <DEADKEY Both="02D90049" Composed="0130" />
+        <DEADKEY Both="02D9004C" Composed="013F" />
+        <DEADKEY Both="02D9004D" Composed="1E40" />
+        <DEADKEY Both="02D9004E" Composed="1E44" />
+        <DEADKEY Both="02D9004F" Composed="022E" />
+        <DEADKEY Both="02D90050" Composed="1E56" />
+        <DEADKEY Both="02D90052" Composed="1E58" />
+        <DEADKEY Both="02D90053" Composed="1E60" />
+        <DEADKEY Both="02D90054" Composed="1E6A" />
+        <DEADKEY Both="02D90057" Composed="1E86" />
+        <DEADKEY Both="02D90058" Composed="1E8A" />
+        <DEADKEY Both="02D90059" Composed="1E8E" />
+        <DEADKEY Both="02D9005A" Composed="017B" />
+        <DEADKEY Both="02D90061" Composed="0227" />
+        <DEADKEY Both="02D90062" Composed="1E03" />
+        <DEADKEY Both="02D90063" Composed="010B" />
+        <DEADKEY Both="02D90064" Composed="1E0B" />
+        <DEADKEY Both="02D90065" Composed="0117" />
+        <DEADKEY Both="02D90066" Composed="1E1F" />
+        <DEADKEY Both="02D90067" Composed="0121" />
+        <DEADKEY Both="02D90068" Composed="1E23" />
+        <DEADKEY Both="02D9006C" Composed="0140" />
+        <DEADKEY Both="02D9006D" Composed="1E41" />
+        <DEADKEY Both="02D9006E" Composed="1E45" />
+        <DEADKEY Both="02D9006F" Composed="022F" />
+        <DEADKEY Both="02D90070" Composed="1E57" />
+        <DEADKEY Both="02D90072" Composed="1E59" />
+        <DEADKEY Both="02D90073" Composed="1E61" />
+        <DEADKEY Both="02D90074" Composed="1E6B" />
+        <DEADKEY Both="02D90077" Composed="1E87" />
+        <DEADKEY Both="02D90078" Composed="1E8B" />
+        <DEADKEY Both="02D90079" Composed="1E8F" />
+        <DEADKEY Both="02D9007A" Composed="017C" />
+        <DEADKEY Both="02D9007E" Composed="2E1E" />
+        <DEADKEY Both="02D900AF" Composed="01E1" Flags="DEAD" />
+        <DEADKEY Both="02D900B4" Composed="0548" Flags="DEAD" />
+        <DEADKEY Both="02D902C7" Composed="0549" Flags="DEAD" />
+        <DEADKEY Both="02D902CC" Composed="054A" Flags="DEAD" />
+        <DEADKEY Both="02D902D8" Composed="0310" />
+        <DEADKEY Both="02D902D9" Composed="0307" />
+        <DEADKEY Both="02DA0020" Composed="02DA" />
+        <DEADKEY Both="02DA0023" Composed="220E" />
+        <DEADKEY Both="02DA0028" Composed="2772" />
+        <DEADKEY Both="02DA0029" Composed="2773" />
+        <DEADKEY Both="02DA002A" Composed="2217" />
+        <DEADKEY Both="02DA002B" Composed="2295" />
+        <DEADKEY Both="02DA002D" Composed="2296" />
+        <DEADKEY Both="02DA002E" Composed="22C5" />
+        <DEADKEY Both="02DA002F" Composed="2215" />
+        <DEADKEY Both="02DA0030" Composed="24EA" />
+        <DEADKEY Both="02DA0031" Composed="2460" />
+        <DEADKEY Both="02DA0032" Composed="2461" />
+        <DEADKEY Both="02DA0033" Composed="2462" />
+        <DEADKEY Both="02DA0034" Composed="2463" />
+        <DEADKEY Both="02DA0035" Composed="2464" />
+        <DEADKEY Both="02DA0036" Composed="2465" />
+        <DEADKEY Both="02DA0037" Composed="2466" />
+        <DEADKEY Both="02DA0038" Composed="2467" />
+        <DEADKEY Both="02DA0039" Composed="2468" />
+        <DEADKEY Both="02DA003A" Composed="2236" />
+        <DEADKEY Both="02DA003B" Composed="21CC" />
+        <DEADKEY Both="02DA003C" Composed="226A" />
+        <DEADKEY Both="02DA003D" Composed="225D" />
+        <DEADKEY Both="02DA003E" Composed="226B" />
+        <DEADKEY Both="02DA0041" Composed="00C5" />
+        <DEADKEY Both="02DA0042" Composed="21CE" />
+        <DEADKEY Both="02DA0043" Composed="2102" />
+        <DEADKEY Both="02DA0044" Composed="2206" />
+        <DEADKEY Both="02DA0045" Composed="2204" />
+        <DEADKEY Both="02DA0046" Composed="2234" />
+        <DEADKEY Both="02DA0047" Composed="2284" />
+        <DEADKEY Both="02DA0048" Composed="210F" />
+        <DEADKEY Both="02DA0049" Composed="221D" />
+        <DEADKEY Both="02DA004A" Composed="2285" />
+        <DEADKEY Both="02DA004B" Composed="2287" />
+        <DEADKEY Both="02DA004C" Composed="2229" />
+        <DEADKEY Both="02DA004D" Composed="21CF" />
+        <DEADKEY Both="02DA004E" Composed="2115" />
+        <DEADKEY Both="02DA004F" Composed="2220" />
+        <DEADKEY Both="02DA0050" Composed="2117" />
+        <DEADKEY Both="02DA0051" Composed="211A" />
+        <DEADKEY Both="02DA0052" Composed="211D" />
+        <DEADKEY Both="02DA0053" Composed="2207" />
+        <DEADKEY Both="02DA0054" Composed="221F" />
+        <DEADKEY Both="02DA0055" Composed="016E" />
+        <DEADKEY Both="02DA0056" Composed="2227" />
+        <DEADKEY Both="02DA0057" Composed="02AC" />
+        <DEADKEY Both="02DA0058" Composed="2135" />
+        <DEADKEY Both="02DA0059" Composed="2222" />
+        <DEADKEY Both="02DA005A" Composed="2124" />
+        <DEADKEY Both="02DA005B" Composed="27E6" />
+        <DEADKEY Both="02DA005D" Composed="27E7" />
+        <DEADKEY Both="02DA0061" Composed="00E5" />
+        <DEADKEY Both="02DA0062" Composed="21D4" />
+        <DEADKEY Both="02DA0063" Composed="221B" />
+        <DEADKEY Both="02DA0064" Composed="2202" />
+        <DEADKEY Both="02DA0065" Composed="2203" />
+        <DEADKEY Both="02DA0066" Composed="2235" />
+        <DEADKEY Both="02DA0067" Composed="2282" />
+        <DEADKEY Both="02DA0068" Composed="210E" />
+        <DEADKEY Both="02DA0069" Composed="221E" />
+        <DEADKEY Both="02DA006A" Composed="2283" />
+        <DEADKEY Both="02DA006B" Composed="2286" />
+        <DEADKEY Both="02DA006C" Composed="222A" />
+        <DEADKEY Both="02DA006D" Composed="21D2" />
+        <DEADKEY Both="02DA006E" Composed="21D0" />
+        <DEADKEY Both="02DA006F" Composed="2221" />
+        <DEADKEY Both="02DA0070" Composed="220F" />
+        <DEADKEY Both="02DA0071" Composed="2200" />
+        <DEADKEY Both="02DA0072" Composed="221A" />
+        <DEADKEY Both="02DA0073" Composed="2194" />
+        <DEADKEY Both="02DA0074" Composed="22A5" />
+        <DEADKEY Both="02DA0075" Composed="016F" />
+        <DEADKEY Both="02DA0076" Composed="2228" />
+        <DEADKEY Both="02DA0077" Composed="1E98" />
+        <DEADKEY Both="02DA0078" Composed="2715" />
+        <DEADKEY Both="02DA0079" Composed="1E99" />
+        <DEADKEY Both="02DA007A" Composed="26A1" />
+        <DEADKEY Both="02DA007E" Composed="2E1B" />
+        <DEADKEY Both="02DA00B4" Composed="01FB" Flags="DEAD" />
+        <DEADKEY Both="02DA00B7" Composed="2219" />
+        <DEADKEY Both="02DA00C4" Composed="220C" />
+        <DEADKEY Both="02DA00D6" Composed="2209" />
+        <DEADKEY Both="02DA00D7" Composed="2297" />
+        <DEADKEY Both="02DA00DC" Composed="2226" />
+        <DEADKEY Both="02DA00DF" Composed="222B" />
+        <DEADKEY Both="02DA00E4" Composed="220B" />
+        <DEADKEY Both="02DA00F6" Composed="2208" />
+        <DEADKEY Both="02DA00FC" Composed="2225" />
+        <DEADKEY Both="02DA02DA" Composed="030A" />
+        <DEADKEY Both="02DB0020" Composed="02DB" />
+        <DEADKEY Both="02DB0041" Composed="0104" />
+        <DEADKEY Both="02DB0045" Composed="0118" />
+        <DEADKEY Both="02DB0049" Composed="012E" />
+        <DEADKEY Both="02DB004F" Composed="01EA" />
+        <DEADKEY Both="02DB0055" Composed="0172" />
+        <DEADKEY Both="02DB0061" Composed="0105" />
+        <DEADKEY Both="02DB0065" Composed="0119" />
+        <DEADKEY Both="02DB0069" Composed="012F" />
+        <DEADKEY Both="02DB006F" Composed="01EB" />
+        <DEADKEY Both="02DB0075" Composed="0173" />
+        <DEADKEY Both="02DB00AF" Composed="01ED" Flags="DEAD" />
+        <DEADKEY Both="02DB02DB" Composed="0328" />
+        <DEADKEY Both="02DC0020" Composed="02DC" />
+        <DEADKEY Both="02DC002D" Composed="2243" />
+        <DEADKEY Both="02DC003D" Composed="2245" />
+        <DEADKEY Both="02DC0041" Composed="00C3" />
+        <DEADKEY Both="02DC0045" Composed="1EBC" />
+        <DEADKEY Both="02DC0049" Composed="0128" />
+        <DEADKEY Both="02DC004E" Composed="00D1" />
+        <DEADKEY Both="02DC004F" Composed="00D5" />
+        <DEADKEY Both="02DC0055" Composed="0168" />
+        <DEADKEY Both="02DC0056" Composed="1E7C" />
+        <DEADKEY Both="02DC0059" Composed="1EF8" />
+        <DEADKEY Both="02DC005E" Composed="0534" Flags="DEAD" />
+        <DEADKEY Both="02DC0061" Composed="00E3" />
+        <DEADKEY Both="02DC0065" Composed="1EBD" />
+        <DEADKEY Both="02DC0069" Composed="0129" />
+        <DEADKEY Both="02DC006E" Composed="00F1" />
+        <DEADKEY Both="02DC006F" Composed="00F5" />
+        <DEADKEY Both="02DC0075" Composed="0169" />
+        <DEADKEY Both="02DC0076" Composed="1E7D" />
+        <DEADKEY Both="02DC0079" Composed="1EF9" />
+        <DEADKEY Both="02DC007E" Composed="2248" />
+        <DEADKEY Both="02DC00A8" Composed="0541" Flags="DEAD" />
+        <DEADKEY Both="02DC00AF" Composed="022D" Flags="DEAD" />
+        <DEADKEY Both="02DC00B4" Composed="0540" Flags="DEAD" />
+        <DEADKEY Both="02DC02BC" Composed="0546" Flags="DEAD" />
+        <DEADKEY Both="02DC02D8" Composed="0539" Flags="DEAD" />
+        <DEADKEY Both="02DC02DC" Composed="0303" />
+        <DEADKEY Both="02DD0020" Composed="02DD" />
+        <DEADKEY Both="02DD0023" Composed="2016" />
+        <DEADKEY Both="02DD002B" Composed="02C8" />
+        <DEADKEY Both="02DD002C" Composed="02D1" />
+        <DEADKEY Both="02DD002D" Composed="02CC" />
+        <DEADKEY Both="02DD002E" Composed="02D0" />
+        <DEADKEY Both="02DD0031" Composed="0031" Flags="DEAD" />
+        <DEADKEY Both="02DD0032" Composed="0032" Flags="DEAD" />
+        <DEADKEY Both="02DD0033" Composed="0033" Flags="DEAD" />
+        <DEADKEY Both="02DD0034" Composed="0034" Flags="DEAD" />
+        <DEADKEY Both="02DD003A" Composed="02D0" />
+        <DEADKEY Both="02DD004F" Composed="0150" />
+        <DEADKEY Both="02DD0055" Composed="0170" />
+        <DEADKEY Both="02DD0061" Composed="0061" Flags="DEAD" />
+        <DEADKEY Both="02DD0062" Composed="0062" Flags="DEAD" />
+        <DEADKEY Both="02DD0063" Composed="0063" Flags="DEAD" />
+        <DEADKEY Both="02DD0064" Composed="0064" Flags="DEAD" />
+        <DEADKEY Both="02DD0065" Composed="0065" Flags="DEAD" />
+        <DEADKEY Both="02DD0066" Composed="0066" Flags="DEAD" />
+        <DEADKEY Both="02DD0067" Composed="0067" Flags="DEAD" />
+        <DEADKEY Both="02DD0068" Composed="0068" Flags="DEAD" />
+        <DEADKEY Both="02DD0069" Composed="0069" Flags="DEAD" />
+        <DEADKEY Both="02DD006A" Composed="006A" Flags="DEAD" />
+        <DEADKEY Both="02DD006B" Composed="006B" Flags="DEAD" />
+        <DEADKEY Both="02DD006C" Composed="006C" Flags="DEAD" />
+        <DEADKEY Both="02DD006D" Composed="006D" Flags="DEAD" />
+        <DEADKEY Both="02DD006E" Composed="006E" Flags="DEAD" />
+        <DEADKEY Both="02DD006F" Composed="0151" />
+        <DEADKEY Both="02DD0070" Composed="0070" Flags="DEAD" />
+        <DEADKEY Both="02DD0071" Composed="0071" Flags="DEAD" />
+        <DEADKEY Both="02DD0072" Composed="0072" Flags="DEAD" />
+        <DEADKEY Both="02DD0073" Composed="0073" Flags="DEAD" />
+        <DEADKEY Both="02DD0074" Composed="0074" Flags="DEAD" />
+        <DEADKEY Both="02DD0075" Composed="0171" />
+        <DEADKEY Both="02DD0076" Composed="0076" Flags="DEAD" />
+        <DEADKEY Both="02DD0077" Composed="0077" Flags="DEAD" />
+        <DEADKEY Both="02DD0078" Composed="0078" Flags="DEAD" />
+        <DEADKEY Both="02DD0079" Composed="0079" Flags="DEAD" />
+        <DEADKEY Both="02DD007A" Composed="007A" Flags="DEAD" />
+        <DEADKEY Both="02DD00E4" Composed="0061" Flags="DEAD" />
+        <DEADKEY Both="02DD00F6" Composed="006F" Flags="DEAD" />
+        <DEADKEY Both="02DD00FC" Composed="0075" Flags="DEAD" />
+        <DEADKEY Both="02DD02DD" Composed="030B" />
+        <DEADKEY Both="03900020" Composed="0390" />
+        <DEADKEY Both="03900069" Composed="0390" />
+        <DEADKEY Both="03900079" Composed="03B0" />
+        <DEADKEY Both="03CA0020" Composed="03CA" />
+        <DEADKEY Both="03CA0049" Composed="03AA" />
+        <DEADKEY Both="03CA0059" Composed="03AB" />
+        <DEADKEY Both="03CA0069" Composed="03CA" />
+        <DEADKEY Both="03CA0079" Composed="03CB" />
+        <DEADKEY Both="05310020" Composed="1EA5" />
+        <DEADKEY Both="05310041" Composed="1EA4" />
+        <DEADKEY Both="05310045" Composed="1EBE" />
+        <DEADKEY Both="0531004F" Composed="1ED0" />
+        <DEADKEY Both="05310061" Composed="1EA5" />
+        <DEADKEY Both="05310065" Composed="1EBF" />
+        <DEADKEY Both="0531006F" Composed="1ED1" />
+        <DEADKEY Both="05320020" Composed="1EA7" />
+        <DEADKEY Both="05320041" Composed="1EA6" />
+        <DEADKEY Both="05320045" Composed="1EC0" />
+        <DEADKEY Both="0532004F" Composed="1ED2" />
+        <DEADKEY Both="05320061" Composed="1EA7" />
+        <DEADKEY Both="05320065" Composed="1EC1" />
+        <DEADKEY Both="0532006F" Composed="1ED3" />
+        <DEADKEY Both="05330020" Composed="1EA9" />
+        <DEADKEY Both="05330041" Composed="1EA8" />
+        <DEADKEY Both="05330045" Composed="1EC2" />
+        <DEADKEY Both="0533004F" Composed="1ED4" />
+        <DEADKEY Both="05330061" Composed="1EA9" />
+        <DEADKEY Both="05330065" Composed="1EC3" />
+        <DEADKEY Both="0533006F" Composed="1ED5" />
+        <DEADKEY Both="05340020" Composed="1EAB" />
+        <DEADKEY Both="05340041" Composed="1EAA" />
+        <DEADKEY Both="05340045" Composed="1EC4" />
+        <DEADKEY Both="0534004F" Composed="1ED6" />
+        <DEADKEY Both="05340061" Composed="1EAB" />
+        <DEADKEY Both="05340065" Composed="1EC5" />
+        <DEADKEY Both="0534006F" Composed="1ED7" />
+        <DEADKEY Both="05350020" Composed="1EAD" />
+        <DEADKEY Both="05350041" Composed="1EAC" />
+        <DEADKEY Both="05350045" Composed="1EC6" />
+        <DEADKEY Both="0535004F" Composed="1ED8" />
+        <DEADKEY Both="05350061" Composed="1EAD" />
+        <DEADKEY Both="05350065" Composed="1EC7" />
+        <DEADKEY Both="0535006F" Composed="1ED9" />
+        <DEADKEY Both="05360020" Composed="1EAF" />
+        <DEADKEY Both="05360041" Composed="1EAE" />
+        <DEADKEY Both="05360061" Composed="1EAF" />
+        <DEADKEY Both="05370020" Composed="1EB1" />
+        <DEADKEY Both="05370041" Composed="1EB0" />
+        <DEADKEY Both="05370061" Composed="1EB1" />
+        <DEADKEY Both="05380020" Composed="1EB3" />
+        <DEADKEY Both="05380041" Composed="1EB2" />
+        <DEADKEY Both="05380061" Composed="1EB3" />
+        <DEADKEY Both="05390020" Composed="1EB5" />
+        <DEADKEY Both="05390041" Composed="1EB4" />
+        <DEADKEY Both="05390061" Composed="1EB5" />
+        <DEADKEY Both="053A0020" Composed="1EB7" />
+        <DEADKEY Both="053A0041" Composed="1EB6" />
+        <DEADKEY Both="053A0061" Composed="1EB7" />
+        <DEADKEY Both="053B0020" Composed="1E17" />
+        <DEADKEY Both="053B0045" Composed="1E16" />
+        <DEADKEY Both="053B004F" Composed="1E52" />
+        <DEADKEY Both="053B0065" Composed="1E17" />
+        <DEADKEY Both="053B006F" Composed="1E53" />
+        <DEADKEY Both="053C0020" Composed="1E09" />
+        <DEADKEY Both="053C0043" Composed="1E08" />
+        <DEADKEY Both="053C0063" Composed="1E09" />
+        <DEADKEY Both="053D0020" Composed="1E1D" />
+        <DEADKEY Both="053D0045" Composed="1E1C" />
+        <DEADKEY Both="053D0065" Composed="1E1D" />
+        <DEADKEY Both="053E0020" Composed="1E2F" />
+        <DEADKEY Both="053E0049" Composed="1E2E" />
+        <DEADKEY Both="053E0055" Composed="01D7" />
+        <DEADKEY Both="053E0069" Composed="1E2F" />
+        <DEADKEY Both="053E0075" Composed="01D8" />
+        <DEADKEY Both="053F0020" Composed="1E39" />
+        <DEADKEY Both="053F004C" Composed="1E38" />
+        <DEADKEY Both="053F0052" Composed="1E5C" />
+        <DEADKEY Both="053F006C" Composed="1E39" />
+        <DEADKEY Both="053F0072" Composed="1E5D" />
+        <DEADKEY Both="05400020" Composed="1E4D" />
+        <DEADKEY Both="0540004F" Composed="1E4C" />
+        <DEADKEY Both="05400055" Composed="1E78" />
+        <DEADKEY Both="0540006F" Composed="1E4D" />
+        <DEADKEY Both="05400075" Composed="1E79" />
+        <DEADKEY Both="05410020" Composed="1E4F" />
+        <DEADKEY Both="0541004F" Composed="1E4E" />
+        <DEADKEY Both="0541006F" Composed="1E4F" />
+        <DEADKEY Both="05420020" Composed="1E51" />
+        <DEADKEY Both="05420045" Composed="1E14" />
+        <DEADKEY Both="0542004F" Composed="1E50" />
+        <DEADKEY Both="05420065" Composed="1E15" />
+        <DEADKEY Both="0542006F" Composed="1E51" />
+        <DEADKEY Both="05430020" Composed="1EDB" />
+        <DEADKEY Both="05430041" Composed="0386" />
+        <DEADKEY Both="05430045" Composed="0388" />
+        <DEADKEY Both="05430048" Composed="0389" />
+        <DEADKEY Both="05430049" Composed="038A" />
+        <DEADKEY Both="0543004F" Composed="1EDA" />
+        <DEADKEY Both="05430055" Composed="1EE8" />
+        <DEADKEY Both="05430056" Composed="038F" />
+        <DEADKEY Both="05430059" Composed="038E" />
+        <DEADKEY Both="05430061" Composed="03AC" />
+        <DEADKEY Both="05430065" Composed="03AD" />
+        <DEADKEY Both="05430068" Composed="03AE" />
+        <DEADKEY Both="05430069" Composed="03AF" />
+        <DEADKEY Both="0543006F" Composed="1EDB" />
+        <DEADKEY Both="05430075" Composed="1EE9" />
+        <DEADKEY Both="05430076" Composed="03CE" />
+        <DEADKEY Both="05430079" Composed="03CD" />
+        <DEADKEY Both="054300D6" Composed="038C" />
+        <DEADKEY Both="054300F6" Composed="03CC" />
+        <DEADKEY Both="05440020" Composed="1EDD" />
+        <DEADKEY Both="0544004F" Composed="1EDC" />
+        <DEADKEY Both="05440055" Composed="1EEA" />
+        <DEADKEY Both="0544006F" Composed="1EDD" />
+        <DEADKEY Both="05440075" Composed="1EEB" />
+        <DEADKEY Both="05450020" Composed="1EDF" />
+        <DEADKEY Both="0545004F" Composed="1EDE" />
+        <DEADKEY Both="05450055" Composed="1EEC" />
+        <DEADKEY Both="0545006F" Composed="1EDF" />
+        <DEADKEY Both="05450075" Composed="1EED" />
+        <DEADKEY Both="05460020" Composed="1EE1" />
+        <DEADKEY Both="0546004F" Composed="1EE0" />
+        <DEADKEY Both="05460055" Composed="1EEE" />
+        <DEADKEY Both="0546006F" Composed="1EE1" />
+        <DEADKEY Both="05460075" Composed="1EEF" />
+        <DEADKEY Both="05470020" Composed="1EE3" />
+        <DEADKEY Both="0547004F" Composed="1EE2" />
+        <DEADKEY Both="05470055" Composed="1EF0" />
+        <DEADKEY Both="0547006F" Composed="1EE3" />
+        <DEADKEY Both="05470075" Composed="1EF1" />
+        <DEADKEY Both="05480020" Composed="1E65" />
+        <DEADKEY Both="05480053" Composed="1E64" />
+        <DEADKEY Both="05480073" Composed="1E65" />
+        <DEADKEY Both="05490020" Composed="1E67" />
+        <DEADKEY Both="05490053" Composed="1E66" />
+        <DEADKEY Both="05490073" Composed="1E67" />
+        <DEADKEY Both="054A0020" Composed="1E69" />
+        <DEADKEY Both="054A0053" Composed="1E68" />
+        <DEADKEY Both="054A0073" Composed="1E69" />
+        <DEADKEY Both="054B0020" Composed="A788" />
+        <DEADKEY Both="054B0044" Composed="1E12" />
+        <DEADKEY Both="054B0045" Composed="1E18" />
+        <DEADKEY Both="054B004C" Composed="1E3C" />
+        <DEADKEY Both="054B004E" Composed="1E4A" />
+        <DEADKEY Both="054B0054" Composed="1E70" />
+        <DEADKEY Both="054B0055" Composed="1E76" />
+        <DEADKEY Both="054B0064" Composed="1E13" />
+        <DEADKEY Both="054B0065" Composed="1E19" />
+        <DEADKEY Both="054B006C" Composed="1E3D" />
+        <DEADKEY Both="054B006E" Composed="1E4B" />
+        <DEADKEY Both="054B0074" Composed="1E71" />
+        <DEADKEY Both="054B0075" Composed="1E77" />
+        <DEADKEY Both="054C0020" Composed="24D0" />
+        <DEADKEY Both="054C0041" Composed="24B6" />
+        <DEADKEY Both="054C0042" Composed="24B7" />
+        <DEADKEY Both="054C0043" Composed="24B8" />
+        <DEADKEY Both="054C0044" Composed="24B9" />
+        <DEADKEY Both="054C0045" Composed="24BA" />
+        <DEADKEY Both="054C0046" Composed="24BB" />
+        <DEADKEY Both="054C0047" Composed="24BC" />
+        <DEADKEY Both="054C0048" Composed="24BD" />
+        <DEADKEY Both="054C0049" Composed="24BE" />
+        <DEADKEY Both="054C004A" Composed="24BF" />
+        <DEADKEY Both="054C004B" Composed="24C0" />
+        <DEADKEY Both="054C004C" Composed="24C1" />
+        <DEADKEY Both="054C004D" Composed="24C2" />
+        <DEADKEY Both="054C004E" Composed="24C3" />
+        <DEADKEY Both="054C004F" Composed="24C4" />
+        <DEADKEY Both="054C0050" Composed="24C5" />
+        <DEADKEY Both="054C0051" Composed="24C6" />
+        <DEADKEY Both="054C0052" Composed="24C7" />
+        <DEADKEY Both="054C0053" Composed="24C8" />
+        <DEADKEY Both="054C0054" Composed="24C9" />
+        <DEADKEY Both="054C0055" Composed="24CA" />
+        <DEADKEY Both="054C0056" Composed="24CB" />
+        <DEADKEY Both="054C0057" Composed="24CC" />
+        <DEADKEY Both="054C0058" Composed="24CD" />
+        <DEADKEY Both="054C0059" Composed="24CE" />
+        <DEADKEY Both="054C005A" Composed="24CF" />
+        <DEADKEY Both="054C0061" Composed="24D0" />
+        <DEADKEY Both="054C0062" Composed="24D1" />
+        <DEADKEY Both="054C0063" Composed="24D2" />
+        <DEADKEY Both="054C0064" Composed="24D3" />
+        <DEADKEY Both="054C0065" Composed="24D4" />
+        <DEADKEY Both="054C0066" Composed="24D5" />
+        <DEADKEY Both="054C0067" Composed="24D6" />
+        <DEADKEY Both="054C0068" Composed="24D7" />
+        <DEADKEY Both="054C0069" Composed="24D8" />
+        <DEADKEY Both="054C006A" Composed="24D9" />
+        <DEADKEY Both="054C006B" Composed="24DA" />
+        <DEADKEY Both="054C006C" Composed="24DB" />
+        <DEADKEY Both="054C006D" Composed="24DC" />
+        <DEADKEY Both="054C006E" Composed="24DD" />
+        <DEADKEY Both="054C006F" Composed="24DE" />
+        <DEADKEY Both="054C0070" Composed="24DF" />
+        <DEADKEY Both="054C0071" Composed="24E0" />
+        <DEADKEY Both="054C0072" Composed="24E1" />
+        <DEADKEY Both="054C0073" Composed="24E2" />
+        <DEADKEY Both="054C0074" Composed="24E3" />
+        <DEADKEY Both="054C0075" Composed="24E4" />
+        <DEADKEY Both="054C0076" Composed="24E5" />
+        <DEADKEY Both="054C0077" Composed="24E6" />
+        <DEADKEY Both="054C0078" Composed="24E7" />
+        <DEADKEY Both="054C0079" Composed="24E8" />
+        <DEADKEY Both="054C007A" Composed="24E9" />
+        <DEADKEY Both="054D0020" Composed="2091" />
+        <DEADKEY Both="054D0061" Composed="2090" />
+        <DEADKEY Both="054D0065" Composed="2091" />
+        <DEADKEY Both="054D0068" Composed="2095" />
+        <DEADKEY Both="054D0069" Composed="1D62" />
+        <DEADKEY Both="054D006A" Composed="2C7C" />
+        <DEADKEY Both="054D006B" Composed="2096" />
+        <DEADKEY Both="054D006C" Composed="2097" />
+        <DEADKEY Both="054D006D" Composed="2098" />
+        <DEADKEY Both="054D006E" Composed="2099" />
+        <DEADKEY Both="054D006F" Composed="2092" />
+        <DEADKEY Both="054D0070" Composed="209A" />
+        <DEADKEY Both="054D0072" Composed="1D63" />
+        <DEADKEY Both="054D0073" Composed="209B" />
+        <DEADKEY Both="054D0074" Composed="209C" />
+        <DEADKEY Both="054D0075" Composed="1D64" />
+        <DEADKEY Both="054D0076" Composed="1D65" />
+        <DEADKEY Both="054D0078" Composed="2093" />
+      </DeadKeys>
+      <KeyNames>
+        <VSC_STRING Vsc="01" Name="ESC" />
+        <VSC_STRING Vsc="0E" Name="RÜCK" />
+        <VSC_STRING Vsc="0F" Name="TABULATOR" />
+        <VSC_STRING Vsc="1C" Name="EINGABE" />
+        <VSC_STRING Vsc="1D" Name="STRG" />
+        <VSC_STRING Vsc="2A" Name="UMSCHALT" />
+        <VSC_STRING Vsc="36" Name="UMSCHALT RECHTS" />
+        <VSC_STRING Vsc="37" Name="* (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="38" Name="ALT" />
+        <VSC_STRING Vsc="39" Name="LEER" />
+        <VSC_STRING Vsc="3A" Name="FESTSTELL" />
+        <VSC_STRING Vsc="3B" Name="F1" />
+        <VSC_STRING Vsc="3C" Name="F2" />
+        <VSC_STRING Vsc="3D" Name="F3" />
+        <VSC_STRING Vsc="3E" Name="F4" />
+        <VSC_STRING Vsc="3F" Name="F5" />
+        <VSC_STRING Vsc="40" Name="F6" />
+        <VSC_STRING Vsc="41" Name="F7" />
+        <VSC_STRING Vsc="42" Name="F8" />
+        <VSC_STRING Vsc="43" Name="F9" />
+        <VSC_STRING Vsc="44" Name="F10" />
+        <VSC_STRING Vsc="45" Name="PAUSE" />
+        <VSC_STRING Vsc="46" Name="ROLLEN-FESTSTELL" />
+        <VSC_STRING Vsc="47" Name="7 (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="48" Name="8 (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="49" Name="9 (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="4A" Name="- (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="4B" Name="4 (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="4C" Name="5 (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="4D" Name="6 (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="4E" Name="+ (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="4F" Name="1 (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="50" Name="2 (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="51" Name="3 (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="52" Name="0 (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="53" Name="KOMMA (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="57" Name="F11" />
+        <VSC_STRING Vsc="58" Name="F12" />
+      </KeyNames>
+      <KeyNamesExt>
+        <VSC_STRING Vsc="1C" Name="EINGABE (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="1D" Name="STRG-RECHTS" />
+        <VSC_STRING Vsc="35" Name="/ (ZEHNERTASTATUR)" />
+        <VSC_STRING Vsc="37" Name="DRUCK" />
+        <VSC_STRING Vsc="38" Name="ALT GR" />
+        <VSC_STRING Vsc="45" Name="NUM-FESTSTELL" />
+        <VSC_STRING Vsc="46" Name="UNTBR" />
+        <VSC_STRING Vsc="47" Name="POS1" />
+        <VSC_STRING Vsc="48" Name="NACH-OBEN" />
+        <VSC_STRING Vsc="49" Name="BILD-NACH-OBEN" />
+        <VSC_STRING Vsc="4B" Name="NACH-LINKS" />
+        <VSC_STRING Vsc="4D" Name="NACH-RECHTS" />
+        <VSC_STRING Vsc="4F" Name="ENDE" />
+        <VSC_STRING Vsc="50" Name="NACH-UNTEN" />
+        <VSC_STRING Vsc="51" Name="BILD-NACH-UNTEN" />
+        <VSC_STRING Vsc="52" Name="EINFG" />
+        <VSC_STRING Vsc="53" Name="ENTF" />
+        <VSC_STRING Vsc="54" Name="&lt;00&gt;" />
+        <VSC_STRING Vsc="56" Name="HILFE" />
+        <VSC_STRING Vsc="5B" Name="LINKE WINDOWS" />
+        <VSC_STRING Vsc="5C" Name="RECHTE WINDOWS" />
+        <VSC_STRING Vsc="5D" Name="ANWENDUNG" />
+      </KeyNamesExt>
+      <KeyNamesDead>
+        <DEADKEY_STRING Key="005E" Name="ZIRKUMFLEX" />
+        <DEADKEY_STRING Key="00B4" Name="AKUT" />
+        <DEADKEY_STRING Key="0060" Name="GRAVIS" />
+        <DEADKEY_STRING Key="02D9" Name="ÜBERPUNKT" />
+        <DEADKEY_STRING Key="00AF" Name="MAKRON" />
+        <DEADKEY_STRING Key="02DD" Name="DOPPELAKUT" />
+        <DEADKEY_STRING Key="02C7" Name="HATSCHEK" />
+        <DEADKEY_STRING Key="00A8" Name="TREMA" />
+        <DEADKEY_STRING Key="02D8" Name="BREVE" />
+        <DEADKEY_STRING Key="02DC" Name="TILDE" />
+        <DEADKEY_STRING Key="02DA" Name="RING" />
+        <DEADKEY_STRING Key="02C0" Name="HORN" />
+        <DEADKEY_STRING Key="02BC" Name="HAKEN" />
+        <DEADKEY_STRING Key="02DF" Name="EXTRA-WAHLTASTE" />
+        <DEADKEY_STRING Key="02CD" Name="UNTERSTRICH" />
+        <DEADKEY_STRING Key="00B8" Name="CEDILLA" />
+        <DEADKEY_STRING Key="02CF" Name="UNTERKOMMA" />
+        <DEADKEY_STRING Key="02DB" Name="OGONEK" />
+        <DEADKEY_STRING Key="02CC" Name="UNTERPUNKT" />
+        <DEADKEY_STRING Key="02D7" Name="QUERSTRICHAKZENT" />
+      </KeyNamesDead>
+      <VSCtoVK>00FF 001B 0031 0032 0033 0034 0035 0036 0037 0038 0039 0030 00DB 00DD 0008 0009 0051 0057 0045 0052 0054 005A 0055 0049 004F 0050 00BA 00BB 000D 00A2 0041 0053 0044 0046 0047 0048 004A 004B 004C 00C0 00DE 00DC 00A0 00BF 0059 0058 0043 0056 0042 004E 004D 00BC 00BE 00BD 01A1 026A 00A4 0020 0014 0070 0071 0072 0073 0074 0075 0076 0077 0078 0079 0390 0291 0C24 0C26 0C21 006D 0C25 0C0C 0C27 006B 0C23 0C28 0C22 0C2D 0C2E 002C 00FF 00E2 007A 007B 000C 00EE 00F1 00EA 00F9 00F5 00F3 00FF 00FF 00FB 002F 007C 007D 007E 007F 0080 0081 0082 0083 0084 0085 0086 00ED 00FF 00E9 00FF 00C1 00FF 00FF 0087 00FF 00FF 00FF 00FF 00EB 0009 00FF 00C2</VSCtoVK>
+      <VSCtoVK_E0>
+        <VSC_VK Vsc="10" Vk="01B1" />
+        <VSC_VK Vsc="19" Vk="01B0" />
+        <VSC_VK Vsc="1D" Vk="01A3" />
+        <VSC_VK Vsc="20" Vk="01AD" />
+        <VSC_VK Vsc="21" Vk="01B7" />
+        <VSC_VK Vsc="22" Vk="01B3" />
+        <VSC_VK Vsc="24" Vk="01B2" />
+        <VSC_VK Vsc="2E" Vk="01AE" />
+        <VSC_VK Vsc="30" Vk="01AF" />
+        <VSC_VK Vsc="32" Vk="01AC" />
+        <VSC_VK Vsc="35" Vk="016F" />
+        <VSC_VK Vsc="37" Vk="012C" />
+        <VSC_VK Vsc="38" Vk="01A5" />
+        <VSC_VK Vsc="47" Vk="0124" />
+        <VSC_VK Vsc="48" Vk="0126" />
+        <VSC_VK Vsc="49" Vk="0121" />
+        <VSC_VK Vsc="4B" Vk="0125" />
+        <VSC_VK Vsc="4D" Vk="0127" />
+        <VSC_VK Vsc="4F" Vk="0123" />
+        <VSC_VK Vsc="50" Vk="0128" />
+        <VSC_VK Vsc="51" Vk="0122" />
+        <VSC_VK Vsc="52" Vk="012D" />
+        <VSC_VK Vsc="53" Vk="012E" />
+        <VSC_VK Vsc="5B" Vk="015B" />
+        <VSC_VK Vsc="5C" Vk="015C" />
+        <VSC_VK Vsc="5D" Vk="015D" />
+        <VSC_VK Vsc="5F" Vk="015F" />
+        <VSC_VK Vsc="65" Vk="01AA" />
+        <VSC_VK Vsc="66" Vk="01AB" />
+        <VSC_VK Vsc="67" Vk="01A8" />
+        <VSC_VK Vsc="68" Vk="01A9" />
+        <VSC_VK Vsc="69" Vk="01A7" />
+        <VSC_VK Vsc="6A" Vk="01A6" />
+        <VSC_VK Vsc="6B" Vk="01B6" />
+        <VSC_VK Vsc="6C" Vk="01B4" />
+        <VSC_VK Vsc="6D" Vk="01B5" />
+        <VSC_VK Vsc="1C" Vk="010D" />
+        <VSC_VK Vsc="46" Vk="0103" />
+      </VSCtoVK_E0>
+      <VSCtoVK_E1>
+        <VSC_VK Vsc="1D" Vk="0013" />
+      </VSCtoVK_E1>
+      <Ligatures />
+    </KbdLayer>
+  </KbdLayerDescriptor>
+  <KbdLayerMultiDescriptor />
+  <KbdNlsLayerDescriptor />
+</KbdDll>
